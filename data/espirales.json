@@ -1,0 +1,882 @@
+{
+  "A11": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Boa Hancock (OP07-051) (V.3)",
+        "precio": "670.00€",
+        "imagen": "images/cartas/op-07/op-07_1.png"
+      },
+      {
+        "nombre": "#2 Rebecca (OP04-092)",
+        "precio": "139.00€",
+        "imagen": "images/cartas/op-07/op-07_2.png"
+      },
+      {
+        "nombre": "#3 O-Nami (OP06-101)",
+        "precio": "95.00€",
+        "imagen": "images/cartas/op-07/op-07_3.png"
+      },
+      {
+        "nombre": "#4 Boa Hancock (OP07-038) (V.2)",
+        "precio": "41.50€",
+        "imagen": "images/cartas/op-07/op-07_4.png"
+      },
+      {
+        "nombre": "#5 Donquixote Doflamingo (OP01-073)",
+        "precio": "29.85€",
+        "imagen": "images/cartas/op-07/op-07_5.png"
+      },
+      {
+        "nombre": "#6 Eustass \"Captain\" Kid (OP05-074)",
+        "precio": "20.48€",
+        "imagen": "images/cartas/op-07/op-07_6.png"
+      },
+      {
+        "nombre": "#7 Jewelry Bonney (OP07-019) (V.2)",
+        "precio": "19.98€",
+        "imagen": "images/cartas/op-07/op-07_7.png"
+      },
+      {
+        "nombre": "#8 Issho (OP03-078)",
+        "precio": "16.45€",
+        "imagen": "images/cartas/op-07/op-07_8.png"
+      },
+      {
+        "nombre": "#9 Izo (OP03-003)",
+        "precio": "15.45€",
+        "imagen": "images/cartas/op-07/op-07_9.png"
+      },
+      {
+        "nombre": "#10 Okiku (OP01-035)",
+        "precio": "14.85€",
+        "imagen": "images/cartas/op-07/op-07_10.png"
+      }
+    ]
+  },
+  "A13": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Marshall.D.Teach (OP09-093) (V.1)",
+        "precio": "599.95€",
+        "imagen": "images/cartas/op-12/op-12_1.png"
+      },
+      {
+        "nombre": "#2 Marshall.D.Teach (OP09-093) (V.2)",
+        "precio": "450.00€",
+        "imagen": "images/cartas/op-12/op-12_2.png"
+      },
+      {
+        "nombre": "#3 Jewelry Bonney (OP12-118) (V.3)",
+        "precio": "300.00€",
+        "imagen": "images/cartas/op-12/op-12_3.png"
+      },
+      {
+        "nombre": "#4 Roronoa Zoro (OP10-095)",
+        "precio": "188.88€",
+        "imagen": "images/cartas/op-12/op-12_4.png"
+      },
+      {
+        "nombre": "#5 Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game (OP12-037) (V.2)",
+        "precio": "125.00€",
+        "imagen": "images/cartas/op-12/op-12_5.png"
+      },
+      {
+        "nombre": "#6 Zoro-Juurou (ST18-004)",
+        "precio": "52.00€",
+        "imagen": "images/cartas/op-12/op-12_6.png"
+      },
+      {
+        "nombre": "#7 Boeuf Burst (OP12-060) (V.2)",
+        "precio": "52.00€",
+        "imagen": "images/cartas/op-12/op-12_7.png"
+      },
+      {
+        "nombre": "#8 Portgas.D.Ace (ST13-011)",
+        "precio": "40.00€",
+        "imagen": "images/cartas/op-12/op-12_8.png"
+      },
+      {
+        "nombre": "#9 Tashigi (OP06-050)",
+        "precio": "24.85€",
+        "imagen": "images/cartas/op-12/op-12_9.png"
+      },
+      {
+        "nombre": "#10 Kuzan (OP10-082)",
+        "precio": "23.65€",
+        "imagen": "images/cartas/op-12/op-12_10.png"
+      }
+    ]
+  },
+  "A14": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Marshall.D.Teach (OP09-093) (V.1)",
+        "precio": "599.95€",
+        "imagen": "images/cartas/op-12/op-12_1.png"
+      },
+      {
+        "nombre": "#2 Marshall.D.Teach (OP09-093) (V.2)",
+        "precio": "450.00€",
+        "imagen": "images/cartas/op-12/op-12_2.png"
+      },
+      {
+        "nombre": "#3 Jewelry Bonney (OP12-118) (V.3)",
+        "precio": "300.00€",
+        "imagen": "images/cartas/op-12/op-12_3.png"
+      },
+      {
+        "nombre": "#4 Roronoa Zoro (OP10-095)",
+        "precio": "188.88€",
+        "imagen": "images/cartas/op-12/op-12_4.png"
+      },
+      {
+        "nombre": "#5 Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game (OP12-037) (V.2)",
+        "precio": "125.00€",
+        "imagen": "images/cartas/op-12/op-12_5.png"
+      },
+      {
+        "nombre": "#6 Zoro-Juurou (ST18-004)",
+        "precio": "52.00€",
+        "imagen": "images/cartas/op-12/op-12_6.png"
+      },
+      {
+        "nombre": "#7 Boeuf Burst (OP12-060) (V.2)",
+        "precio": "52.00€",
+        "imagen": "images/cartas/op-12/op-12_7.png"
+      },
+      {
+        "nombre": "#8 Portgas.D.Ace (ST13-011)",
+        "precio": "40.00€",
+        "imagen": "images/cartas/op-12/op-12_8.png"
+      },
+      {
+        "nombre": "#9 Tashigi (OP06-050)",
+        "precio": "24.85€",
+        "imagen": "images/cartas/op-12/op-12_9.png"
+      },
+      {
+        "nombre": "#10 Kuzan (OP10-082)",
+        "precio": "23.65€",
+        "imagen": "images/cartas/op-12/op-12_10.png"
+      }
+    ]
+  },
+  "A15": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Koby (EB04-044) (V.3)",
+        "precio": "550.00€",
+        "imagen": "images/cartas/eb-04/eb-04_1.png"
+      },
+      {
+        "nombre": "#2 Roronoa Zoro (PRB02-006)",
+        "precio": "325.00€",
+        "imagen": "images/cartas/eb-04/eb-04_2.png"
+      },
+      {
+        "nombre": "#3 Zeus (OP11-106)",
+        "precio": "189.99€",
+        "imagen": "images/cartas/eb-04/eb-04_3.png"
+      },
+      {
+        "nombre": "#4 Sabo (PRB02-014)",
+        "precio": "149.99€",
+        "imagen": "images/cartas/eb-04/eb-04_4.png"
+      },
+      {
+        "nombre": "#5 Smoker & Tashigi (EB04-003) (V.2)",
+        "precio": "110.00€",
+        "imagen": "images/cartas/eb-04/eb-04_5.png"
+      },
+      {
+        "nombre": "#6 Jewelry Bonney (EB04-001) (V.2)",
+        "precio": "89.99€",
+        "imagen": "images/cartas/eb-04/eb-04_6.png"
+      },
+      {
+        "nombre": "#7 Eustass \"Captain\" Kid (EB04-039) (V.2)",
+        "precio": "54.95€",
+        "imagen": "images/cartas/eb-04/eb-04_7.png"
+      },
+      {
+        "nombre": "#8 Monkey.D.Luffy (EB04-061) (V.2)",
+        "precio": "38.99€",
+        "imagen": "images/cartas/eb-04/eb-04_8.png"
+      },
+      {
+        "nombre": "#9 Edward Weevil (EB01-023)",
+        "precio": "33.00€",
+        "imagen": "images/cartas/eb-04/eb-04_9.png"
+      },
+      {
+        "nombre": "#10 Roronoa Zoro (EB04-007) (V.2)",
+        "precio": "29.99€",
+        "imagen": "images/cartas/eb-04/eb-04_10.png"
+      }
+    ]
+  },
+  "A16": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Koby (EB04-044) (V.3)",
+        "precio": "550.00€",
+        "imagen": "images/cartas/eb-04/eb-04_1.png"
+      },
+      {
+        "nombre": "#2 Roronoa Zoro (PRB02-006)",
+        "precio": "325.00€",
+        "imagen": "images/cartas/eb-04/eb-04_2.png"
+      },
+      {
+        "nombre": "#3 Zeus (OP11-106)",
+        "precio": "189.99€",
+        "imagen": "images/cartas/eb-04/eb-04_3.png"
+      },
+      {
+        "nombre": "#4 Sabo (PRB02-014)",
+        "precio": "149.99€",
+        "imagen": "images/cartas/eb-04/eb-04_4.png"
+      },
+      {
+        "nombre": "#5 Smoker & Tashigi (EB04-003) (V.2)",
+        "precio": "110.00€",
+        "imagen": "images/cartas/eb-04/eb-04_5.png"
+      },
+      {
+        "nombre": "#6 Jewelry Bonney (EB04-001) (V.2)",
+        "precio": "89.99€",
+        "imagen": "images/cartas/eb-04/eb-04_6.png"
+      },
+      {
+        "nombre": "#7 Eustass \"Captain\" Kid (EB04-039) (V.2)",
+        "precio": "54.95€",
+        "imagen": "images/cartas/eb-04/eb-04_7.png"
+      },
+      {
+        "nombre": "#8 Monkey.D.Luffy (EB04-061) (V.2)",
+        "precio": "38.99€",
+        "imagen": "images/cartas/eb-04/eb-04_8.png"
+      },
+      {
+        "nombre": "#9 Edward Weevil (EB01-023)",
+        "precio": "33.00€",
+        "imagen": "images/cartas/eb-04/eb-04_9.png"
+      },
+      {
+        "nombre": "#10 Roronoa Zoro (EB04-007) (V.2)",
+        "precio": "29.99€",
+        "imagen": "images/cartas/eb-04/eb-04_10.png"
+      }
+    ]
+  },
+  "A21": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Buggy (OP09-051) (V.1)",
+        "precio": "820.00€",
+        "imagen": "images/cartas/op-14/op-14_1.png"
+      },
+      {
+        "nombre": "#2 Buggy (OP09-051) (V.2)",
+        "precio": "480.00€",
+        "imagen": "images/cartas/op-14/op-14_2.png"
+      },
+      {
+        "nombre": "#3 Dracule Mihawk (OP14-119) (V.3)",
+        "precio": "349.99€",
+        "imagen": "images/cartas/op-14/op-14_3.png"
+      },
+      {
+        "nombre": "#4 Boa Hancock (OP14-112) (V.3)",
+        "precio": "158.99€",
+        "imagen": "images/cartas/op-14/op-14_4.png"
+      },
+      {
+        "nombre": "#5 You'll Frighten Me... (OP14-118) (V.2)",
+        "precio": "99.99€",
+        "imagen": "images/cartas/op-14/op-14_5.png"
+      },
+      {
+        "nombre": "#6 Sugar (OP10-065)",
+        "precio": "62.00€",
+        "imagen": "images/cartas/op-14/op-14_6.png"
+      },
+      {
+        "nombre": "#7 Ground Death (OP14-096) (V.2)",
+        "precio": "60.00€",
+        "imagen": "images/cartas/op-14/op-14_7.png"
+      },
+      {
+        "nombre": "#8 Perona (OP06-093)",
+        "precio": "58.99€",
+        "imagen": "images/cartas/op-14/op-14_8.png"
+      },
+      {
+        "nombre": "#9 Boa Hancock (OP14-041) (V.2)",
+        "precio": "50.00€",
+        "imagen": "images/cartas/op-14/op-14_9.png"
+      },
+      {
+        "nombre": "#10 Dracule Mihawk (OP12-030)",
+        "precio": "49.99€",
+        "imagen": "images/cartas/op-14/op-14_10.png"
+      }
+    ]
+  },
+  "A22": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Buggy (OP09-051) (V.1)",
+        "precio": "820.00€",
+        "imagen": "images/cartas/op-14/op-14_1.png"
+      },
+      {
+        "nombre": "#2 Buggy (OP09-051) (V.2)",
+        "precio": "480.00€",
+        "imagen": "images/cartas/op-14/op-14_2.png"
+      },
+      {
+        "nombre": "#3 Dracule Mihawk (OP14-119) (V.3)",
+        "precio": "349.99€",
+        "imagen": "images/cartas/op-14/op-14_3.png"
+      },
+      {
+        "nombre": "#4 Boa Hancock (OP14-112) (V.3)",
+        "precio": "158.99€",
+        "imagen": "images/cartas/op-14/op-14_4.png"
+      },
+      {
+        "nombre": "#5 You'll Frighten Me... (OP14-118) (V.2)",
+        "precio": "99.99€",
+        "imagen": "images/cartas/op-14/op-14_5.png"
+      },
+      {
+        "nombre": "#6 Sugar (OP10-065)",
+        "precio": "62.00€",
+        "imagen": "images/cartas/op-14/op-14_6.png"
+      },
+      {
+        "nombre": "#7 Ground Death (OP14-096) (V.2)",
+        "precio": "60.00€",
+        "imagen": "images/cartas/op-14/op-14_7.png"
+      },
+      {
+        "nombre": "#8 Perona (OP06-093)",
+        "precio": "58.99€",
+        "imagen": "images/cartas/op-14/op-14_8.png"
+      },
+      {
+        "nombre": "#9 Boa Hancock (OP14-041) (V.2)",
+        "precio": "50.00€",
+        "imagen": "images/cartas/op-14/op-14_9.png"
+      },
+      {
+        "nombre": "#10 Dracule Mihawk (OP12-030)",
+        "precio": "49.99€",
+        "imagen": "images/cartas/op-14/op-14_10.png"
+      }
+    ]
+  },
+  "A23": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Trafalgar Law (OP10-119) (V.3)",
+        "precio": "280.00€",
+        "imagen": "images/cartas/op-10/op-10_1.png"
+      },
+      {
+        "nombre": "#2 Edward.Newgate (ST15-002)",
+        "precio": "65.00€",
+        "imagen": "images/cartas/op-10/op-10_2.png"
+      },
+      {
+        "nombre": "#3 Sengoku (OP07-046)",
+        "precio": "53.00€",
+        "imagen": "images/cartas/op-10/op-10_3.png"
+      },
+      {
+        "nombre": "#4 Sanji (ST14-003)",
+        "precio": "34.00€",
+        "imagen": "images/cartas/op-10/op-10_4.png"
+      },
+      {
+        "nombre": "#5 Uso-Hachi (ST18-001)",
+        "precio": "32.00€",
+        "imagen": "images/cartas/op-10/op-10_5.png"
+      },
+      {
+        "nombre": "#6 Charlotte Pudding (ST12-012)",
+        "precio": "22.00€",
+        "imagen": "images/cartas/op-10/op-10_6.png"
+      },
+      {
+        "nombre": "#7 Divine Departure (OP10-019) (V.2)",
+        "precio": "17.65€",
+        "imagen": "images/cartas/op-10/op-10_7.png"
+      },
+      {
+        "nombre": "#8 Urouge (OP07-021)",
+        "precio": "15.00€",
+        "imagen": "images/cartas/op-10/op-10_8.png"
+      },
+      {
+        "nombre": "#9 Charlotte Flampe (EB01-056)",
+        "precio": "13.50€",
+        "imagen": "images/cartas/op-10/op-10_9.png"
+      },
+      {
+        "nombre": "#10 Monkey.D.Luffy (OP10-118) (V.2)",
+        "precio": "7.85€",
+        "imagen": "images/cartas/op-10/op-10_10.png"
+      }
+    ]
+  },
+  "A24": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Trafalgar Law (OP10-119) (V.3)",
+        "precio": "280.00€",
+        "imagen": "images/cartas/op-10/op-10_1.png"
+      },
+      {
+        "nombre": "#2 Edward.Newgate (ST15-002)",
+        "precio": "65.00€",
+        "imagen": "images/cartas/op-10/op-10_2.png"
+      },
+      {
+        "nombre": "#3 Sengoku (OP07-046)",
+        "precio": "53.00€",
+        "imagen": "images/cartas/op-10/op-10_3.png"
+      },
+      {
+        "nombre": "#4 Sanji (ST14-003)",
+        "precio": "34.00€",
+        "imagen": "images/cartas/op-10/op-10_4.png"
+      },
+      {
+        "nombre": "#5 Uso-Hachi (ST18-001)",
+        "precio": "32.00€",
+        "imagen": "images/cartas/op-10/op-10_5.png"
+      },
+      {
+        "nombre": "#6 Charlotte Pudding (ST12-012)",
+        "precio": "22.00€",
+        "imagen": "images/cartas/op-10/op-10_6.png"
+      },
+      {
+        "nombre": "#7 Divine Departure (OP10-019) (V.2)",
+        "precio": "17.65€",
+        "imagen": "images/cartas/op-10/op-10_7.png"
+      },
+      {
+        "nombre": "#8 Urouge (OP07-021)",
+        "precio": "15.00€",
+        "imagen": "images/cartas/op-10/op-10_8.png"
+      },
+      {
+        "nombre": "#9 Charlotte Flampe (EB01-056)",
+        "precio": "13.50€",
+        "imagen": "images/cartas/op-10/op-10_9.png"
+      },
+      {
+        "nombre": "#10 Monkey.D.Luffy (OP10-118) (V.2)",
+        "precio": "7.85€",
+        "imagen": "images/cartas/op-10/op-10_10.png"
+      }
+    ]
+  },
+  "A25": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Monkey.D.Luffy (OP13-118) (V.4)",
+        "precio": "5450.00€",
+        "imagen": "images/cartas/op-13/op-13_1.png"
+      },
+      {
+        "nombre": "#2 Sabo (OP13-120) (V.4)",
+        "precio": "2299.00€",
+        "imagen": "images/cartas/op-13/op-13_2.png"
+      },
+      {
+        "nombre": "#3 Portgas.D.Ace (OP13-119) (V.4)",
+        "precio": "1800.00€",
+        "imagen": "images/cartas/op-13/op-13_3.png"
+      },
+      {
+        "nombre": "#4 Monkey.D.Luffy (OP13-118) (V.3)",
+        "precio": "650.00€",
+        "imagen": "images/cartas/op-13/op-13_4.png"
+      },
+      {
+        "nombre": "#5 Shanks (OP09-004) (V.1)",
+        "precio": "399.95€",
+        "imagen": "images/cartas/op-13/op-13_5.png"
+      },
+      {
+        "nombre": "#6 Portgas.D.Ace (OP13-119) (V.3)",
+        "precio": "379.00€",
+        "imagen": "images/cartas/op-13/op-13_6.png"
+      },
+      {
+        "nombre": "#7 Shanks (OP09-004) (V.2)",
+        "precio": "300.00€",
+        "imagen": "images/cartas/op-13/op-13_7.png"
+      },
+      {
+        "nombre": "#8 Sabo (OP13-120) (V.3)",
+        "precio": "276.71€",
+        "imagen": "images/cartas/op-13/op-13_8.png"
+      },
+      {
+        "nombre": "#9 Nefeltari Vivi (EB02-026)",
+        "precio": "248.88€",
+        "imagen": "images/cartas/op-13/op-13_9.png"
+      },
+      {
+        "nombre": "#10 St. Marcus Mars (OP13-091) (V.3)",
+        "precio": "145.00€",
+        "imagen": "images/cartas/op-13/op-13_10.png"
+      }
+    ]
+  },
+  "A26": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Monkey.D.Luffy (OP13-118) (V.4)",
+        "precio": "5450.00€",
+        "imagen": "images/cartas/op-13/op-13_1.png"
+      },
+      {
+        "nombre": "#2 Sabo (OP13-120) (V.4)",
+        "precio": "2299.00€",
+        "imagen": "images/cartas/op-13/op-13_2.png"
+      },
+      {
+        "nombre": "#3 Portgas.D.Ace (OP13-119) (V.4)",
+        "precio": "1800.00€",
+        "imagen": "images/cartas/op-13/op-13_3.png"
+      },
+      {
+        "nombre": "#4 Monkey.D.Luffy (OP13-118) (V.3)",
+        "precio": "650.00€",
+        "imagen": "images/cartas/op-13/op-13_4.png"
+      },
+      {
+        "nombre": "#5 Shanks (OP09-004) (V.1)",
+        "precio": "399.95€",
+        "imagen": "images/cartas/op-13/op-13_5.png"
+      },
+      {
+        "nombre": "#6 Portgas.D.Ace (OP13-119) (V.3)",
+        "precio": "379.00€",
+        "imagen": "images/cartas/op-13/op-13_6.png"
+      },
+      {
+        "nombre": "#7 Shanks (OP09-004) (V.2)",
+        "precio": "300.00€",
+        "imagen": "images/cartas/op-13/op-13_7.png"
+      },
+      {
+        "nombre": "#8 Sabo (OP13-120) (V.3)",
+        "precio": "276.71€",
+        "imagen": "images/cartas/op-13/op-13_8.png"
+      },
+      {
+        "nombre": "#9 Nefeltari Vivi (EB02-026)",
+        "precio": "248.88€",
+        "imagen": "images/cartas/op-13/op-13_9.png"
+      },
+      {
+        "nombre": "#10 St. Marcus Mars (OP13-091) (V.3)",
+        "precio": "145.00€",
+        "imagen": "images/cartas/op-13/op-13_10.png"
+      }
+    ]
+  },
+  "A31": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Enel (OP15-118) (V.3)",
+        "precio": "1100.00€",
+        "imagen": "images/cartas/op-15/op-15_1.png"
+      },
+      {
+        "nombre": "#2 Boa Hancock (OP12-014)",
+        "precio": "377.00€",
+        "imagen": "images/cartas/op-15/op-15_2.png"
+      },
+      {
+        "nombre": "#3 Monkey.D.Luffy (ST26-005)",
+        "precio": "269.00€",
+        "imagen": "images/cartas/op-15/op-15_3.png"
+      },
+      {
+        "nombre": "#4 Gum-Gum Golden Rifle (OP15-116) (V.2)",
+        "precio": "185.00€",
+        "imagen": "images/cartas/op-15/op-15_4.png"
+      },
+      {
+        "nombre": "#5 Trafalgar Law (OP13-031)",
+        "precio": "175.00€",
+        "imagen": "images/cartas/op-15/op-15_5.png"
+      },
+      {
+        "nombre": "#6 Lightning Dragon (OP15-077) (V.2)",
+        "precio": "170.00€",
+        "imagen": "images/cartas/op-15/op-15_6.png"
+      },
+      {
+        "nombre": "#7 Enel (EB02-052)",
+        "precio": "145.00€",
+        "imagen": "images/cartas/op-15/op-15_7.png"
+      },
+      {
+        "nombre": "#8 Edward.Newgate (OP13-042)",
+        "precio": "119.99€",
+        "imagen": "images/cartas/op-15/op-15_8.png"
+      },
+      {
+        "nombre": "#9 Sabo (P-105)",
+        "precio": "105.00€",
+        "imagen": "images/cartas/op-15/op-15_9.png"
+      },
+      {
+        "nombre": "#10 Monkey.D.Luffy (OP15-119) (V.2)",
+        "precio": "85.00€",
+        "imagen": "images/cartas/op-15/op-15_10.png"
+      }
+    ]
+  },
+  "A32": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Gol.D.Roger (OP09-118) (V.3)",
+        "precio": "3200.00€",
+        "imagen": "images/cartas/op-09/op-09_1.png"
+      },
+      {
+        "nombre": "#2 Monkey.D.Luffy (OP09-119) (V.3)",
+        "precio": "899.00€",
+        "imagen": "images/cartas/op-09/op-09_2.png"
+      },
+      {
+        "nombre": "#3 Shanks (OP09-004) (V.4)",
+        "precio": "660.00€",
+        "imagen": "images/cartas/op-09/op-09_3.png"
+      },
+      {
+        "nombre": "#4 Marshall.D.Teach (OP09-093) (V.4)",
+        "precio": "599.00€",
+        "imagen": "images/cartas/op-09/op-09_4.png"
+      },
+      {
+        "nombre": "#5 Buggy (OP09-051) (V.4)",
+        "precio": "420.00€",
+        "imagen": "images/cartas/op-09/op-09_5.png"
+      },
+      {
+        "nombre": "#6 Monkey.D.Luffy (OP05-119)",
+        "precio": "149.99€",
+        "imagen": "images/cartas/op-09/op-09_6.png"
+      },
+      {
+        "nombre": "#7 Boa Hancock (OP07-051)",
+        "precio": "140.00€",
+        "imagen": "images/cartas/op-09/op-09_7.png"
+      },
+      {
+        "nombre": "#8 Nami (OP08-106)",
+        "precio": "131.95€",
+        "imagen": "images/cartas/op-09/op-09_8.png"
+      },
+      {
+        "nombre": "#9 Zoro-Juurou (OP05-067)",
+        "precio": "84.99€",
+        "imagen": "images/cartas/op-09/op-09_9.png"
+      },
+      {
+        "nombre": "#10 Shanks (OP09-004) (V.3)",
+        "precio": "72.90€",
+        "imagen": "images/cartas/op-09/op-09_10.png"
+      }
+    ]
+  },
+  "A34": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Gol.D.Roger (OP09-118) (V.3)",
+        "precio": "3200.00€",
+        "imagen": "images/cartas/op-09/op-09_1.png"
+      },
+      {
+        "nombre": "#2 Monkey.D.Luffy (OP09-119) (V.3)",
+        "precio": "899.00€",
+        "imagen": "images/cartas/op-09/op-09_2.png"
+      },
+      {
+        "nombre": "#3 Shanks (OP09-004) (V.4)",
+        "precio": "660.00€",
+        "imagen": "images/cartas/op-09/op-09_3.png"
+      },
+      {
+        "nombre": "#4 Marshall.D.Teach (OP09-093) (V.4)",
+        "precio": "599.00€",
+        "imagen": "images/cartas/op-09/op-09_4.png"
+      },
+      {
+        "nombre": "#5 Buggy (OP09-051) (V.4)",
+        "precio": "420.00€",
+        "imagen": "images/cartas/op-09/op-09_5.png"
+      },
+      {
+        "nombre": "#6 Monkey.D.Luffy (OP05-119)",
+        "precio": "149.99€",
+        "imagen": "images/cartas/op-09/op-09_6.png"
+      },
+      {
+        "nombre": "#7 Boa Hancock (OP07-051)",
+        "precio": "140.00€",
+        "imagen": "images/cartas/op-09/op-09_7.png"
+      },
+      {
+        "nombre": "#8 Nami (OP08-106)",
+        "precio": "131.95€",
+        "imagen": "images/cartas/op-09/op-09_8.png"
+      },
+      {
+        "nombre": "#9 Zoro-Juurou (OP05-067)",
+        "precio": "84.99€",
+        "imagen": "images/cartas/op-09/op-09_9.png"
+      },
+      {
+        "nombre": "#10 Shanks (OP09-004) (V.3)",
+        "precio": "72.90€",
+        "imagen": "images/cartas/op-09/op-09_10.png"
+      }
+    ]
+  },
+  "A35": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Monkey.D.Luffy (ST01-012) (V.2)",
+        "precio": "2500.00€",
+        "imagen": "images/cartas/op-05/op-05_1.png"
+      },
+      {
+        "nombre": "#2 Monkey.D.Luffy (OP05-119) (V.3)",
+        "precio": "1900.00€",
+        "imagen": "images/cartas/op-05/op-05_2.png"
+      },
+      {
+        "nombre": "#3 Trafalgar Law (OP05-069) (V.3)",
+        "precio": "450.00€",
+        "imagen": "images/cartas/op-05/op-05_3.png"
+      },
+      {
+        "nombre": "#4 Eustass \"Captain\" Kid (OP05-074) (V.3)",
+        "precio": "399.00€",
+        "imagen": "images/cartas/op-05/op-05_4.png"
+      },
+      {
+        "nombre": "#5 Nami (OP01-016)",
+        "precio": "119.99€",
+        "imagen": "images/cartas/op-05/op-05_5.png"
+      },
+      {
+        "nombre": "#6 Enel (OP05-100) (V.3)",
+        "precio": "68.99€",
+        "imagen": "images/cartas/op-05/op-05_6.png"
+      },
+      {
+        "nombre": "#7 Uta (OP02-120)",
+        "precio": "60.00€",
+        "imagen": "images/cartas/op-05/op-05_7.png"
+      },
+      {
+        "nombre": "#8 Monkey.D.Luffy (OP05-119) (V.2)",
+        "precio": "60.00€",
+        "imagen": "images/cartas/op-05/op-05_8.png"
+      },
+      {
+        "nombre": "#9 Yamato (OP01-121)",
+        "precio": "57.99€",
+        "imagen": "images/cartas/op-05/op-05_9.png"
+      },
+      {
+        "nombre": "#10 Kaido (OP04-044)",
+        "precio": "38.00€",
+        "imagen": "images/cartas/op-05/op-05_10.png"
+      }
+    ]
+  },
+  "A36": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Monkey.D.Luffy (ST01-012) (V.2)",
+        "precio": "2500.00€",
+        "imagen": "images/cartas/op-05/op-05_1.png"
+      },
+      {
+        "nombre": "#2 Monkey.D.Luffy (OP05-119) (V.3)",
+        "precio": "1900.00€",
+        "imagen": "images/cartas/op-05/op-05_2.png"
+      },
+      {
+        "nombre": "#3 Trafalgar Law (OP05-069) (V.3)",
+        "precio": "450.00€",
+        "imagen": "images/cartas/op-05/op-05_3.png"
+      },
+      {
+        "nombre": "#4 Eustass \"Captain\" Kid (OP05-074) (V.3)",
+        "precio": "399.00€",
+        "imagen": "images/cartas/op-05/op-05_4.png"
+      },
+      {
+        "nombre": "#5 Nami (OP01-016)",
+        "precio": "119.99€",
+        "imagen": "images/cartas/op-05/op-05_5.png"
+      },
+      {
+        "nombre": "#6 Enel (OP05-100) (V.3)",
+        "precio": "68.99€",
+        "imagen": "images/cartas/op-05/op-05_6.png"
+      },
+      {
+        "nombre": "#7 Uta (OP02-120)",
+        "precio": "60.00€",
+        "imagen": "images/cartas/op-05/op-05_7.png"
+      },
+      {
+        "nombre": "#8 Monkey.D.Luffy (OP05-119) (V.2)",
+        "precio": "60.00€",
+        "imagen": "images/cartas/op-05/op-05_8.png"
+      },
+      {
+        "nombre": "#9 Yamato (OP01-121)",
+        "precio": "57.99€",
+        "imagen": "images/cartas/op-05/op-05_9.png"
+      },
+      {
+        "nombre": "#10 Kaido (OP04-044)",
+        "precio": "38.00€",
+        "imagen": "images/cartas/op-05/op-05_10.png"
+      }
+    ]
+  }
+}
