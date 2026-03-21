@@ -278,54 +278,54 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Mega Lucario ex (m1L 092)",
-        "precio": "175.00€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_1.png"
+        "nombre": "#1 Rayquaza VMAX (s7R 083)",
+        "precio": "350.00€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_1.png"
       },
       {
-        "nombre": "#2 Mega Lucario ex (m1L 088)",
-        "precio": "40.00€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_2.png"
+        "nombre": "#2 Dragonite V (s7R 074)",
+        "precio": "87.00€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_2.png"
       },
       {
-        "nombre": "#3 Mega Venusaur ex (m1L 087)",
-        "precio": "38.85€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_3.png"
+        "nombre": "#3 Rayquaza V (s7R 076)",
+        "precio": "70.00€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_3.png"
       },
       {
-        "nombre": "#4 Lillie's Determination (m1L 091)",
-        "precio": "29.90€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_4.png"
+        "nombre": "#4 Rayquaza VMAX (s7R 082)",
+        "precio": "11.00€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_4.png"
       },
       {
-        "nombre": "#5 Mega Absol ex (m1L 089)",
-        "precio": "18.00€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_5.png"
+        "nombre": "#5 Gyarados VMAX (s7R 081)",
+        "precio": "9.99€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_5.png"
       },
       {
-        "nombre": "#6 Bulbasaur (m1L 064)",
-        "precio": "5.99€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_6.png"
+        "nombre": "#6 Rayquaza V (s7R 075)",
+        "precio": "8.00€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_6.png"
       },
       {
-        "nombre": "#7 Mega Venusaur ex (m1L 076)",
-        "precio": "4.99€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_7.png"
+        "nombre": "#7 Medicham V (s7R 072)",
+        "precio": "7.00€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_7.png"
       },
       {
-        "nombre": "#8 Lt. Surge's Bargain (m1L 090)",
-        "precio": "4.00€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_8.png"
+        "nombre": "#8 Lightning Energy (s7R 090)",
+        "precio": "5.00€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_8.png"
       },
       {
-        "nombre": "#9 Ivysaur (m1L 065)",
-        "precio": "3.51€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_9.png"
+        "nombre": "#9 Froslass (s7R 087)",
+        "precio": "4.90€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_9.png"
       },
       {
-        "nombre": "#10 Lillie's Determination (m1L 086)",
-        "precio": "3.50€",
-        "imagen": "images/cartas/MEGA-BRAVE/MEGA-BRAVE_10.png"
+        "nombre": "#10 Dragonite V (s7R 073)",
+        "precio": "4.80€",
+        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_10.png"
       }
     ]
   },

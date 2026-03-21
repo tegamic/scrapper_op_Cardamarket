@@ -11,42 +11,108 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from urllib.parse import urlparse
 
 
 # =========================
 # CONFIGURACIÓN
 # =========================
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese?searchMode=v2&idCategory=1621&idExpansion=5481&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Emperors-in-the-New-World-Non-English?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Royal-Blood-Non-English?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/500-Years-into-the-Future-Japanese?searchMode=v2&idCategory=1621&idExpansion=5587&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Bonds-of-Master-and-Disciple-Non-English?searchMode=v2&idCategory=1621&idExpansion=6157&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Egghead-Crisis-Asia-Region-Legal?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/The-Azure-Seas-Seven-Asia-Region-Legal?searchMode=v2&idCategory=1621&idExpansion=6411&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Royal-Blood-Non-English?searchMode=v2&idCategory=1621&idExpansion=5975&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Carrying-on-his-Will-Non-English?searchMode=v2&idCategory=1621&idExpansion=6277&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Adventure-on-Kamis-Island-Asia-Region-Legal?searchMode=v2&idCategory=1621&idExpansion=6504&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Emperors-in-the-New-World-Non-English?searchMode=v2&idCategory=1621&idExpansion=5887&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese?searchMode=v2&idCategory=1621&idExpansion=5481&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/A-Fist-of-Divine-Speed-Non-English?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Anime-25th-Collection-Japanese?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/Heroines-Edition-Asia-Region-Legal?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/The-Best-Vol-2-Non-English?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/OnePiece/Products/Singles/The-Best-Non-English?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes?searchMode=v2&idCategory=51&idExpansion=6395&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ruler-of-the-Black-Flame?searchMode=v2&idCategory=51&idExpansion=5409&idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/Pokemon/Products/Singles/The-Glory-of-Team-Rocket?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/Pokemon/Products/Singles/Eevee-Heroes?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Brave?idRarity=0&sortBy=price_desc&perSite=30"
-URL = "https://www.cardmarket.com/en/Pokemon/Products/Singles/MEGA-Dream-ex?idRarity=0&sortBy=price_desc&perSite=30"
+
+#BlackFlame
+URL = "https://www.pricecharting.com/console/pokemon-japanese-ruler-of-the-black-flame?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#WildForce
+URL = "https://www.pricecharting.com/console/pokemon-japanese-wild-force?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#SilverLance
+URL = "https://www.pricecharting.com/console/pokemon-japanese-silver-lance?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#InfernoX
+URL = "https://www.pricecharting.com/console/pokemon-japanese-inferno-x?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#MegaBrave
+URL = "https://www.pricecharting.com/console/pokemon-japanese-mega-brave?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#Blue Sky Stream
+URL = "https://www.pricecharting.com/console/pokemon-japanese-blue-sky-stream?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#Eevee Heroes
+URL = "https://www.pricecharting.com/console/pokemon-japanese-eevee-heroes?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#RagingSurf
+URL = "https://www.pricecharting.com/console/pokemon-japanese-raging-surf?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#CyberJudge
+URL = "https://www.pricecharting.com/console/pokemon-japanese-cyber-judge?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#WhiteFlare
+URL = "https://www.pricecharting.com/console/pokemon-japanese-white-flare?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#StellarMiracle
+URL = "https://www.pricecharting.com/console/pokemon-japanese-stellar-miracle?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#MatchlessFighters
+URL = "https://www.pricecharting.com/console/pokemon-japanese-matchless-fighter?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#Star-birth
+URL = "https://www.pricecharting.com/console/pokemon-japanese-star-birth?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#LostAbyss
+URL = "https://www.pricecharting.com/console/pokemon-japanese-lost-abyss?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#super-electric-breaker
+URL = "https://www.pricecharting.com/console/pokemon-japanese-super-electric-breaker?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#skyscraping-perfection
+URL = "https://www.pricecharting.com/console/pokemon-japanese-skyscraping-perfection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#glory-of-team-rocket
+URL = "https://www.pricecharting.com/console/pokemon-japanese-glory-of-team-rocket?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#glory-of-team-rocket
+URL = "https://www.pricecharting.com/console/pokemon-japanese-glory-of-team-rocket?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#terastal-festival
+URL = "https://www.pricecharting.com/console/pokemon-japanese-terastal-festival?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#NIHIL-ZERO
+URL = "https://www.pricecharting.com/console/pokemon-japanese-nihil-zero?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#Battle-Partners
+URL = "https://www.pricecharting.com/console/pokemon-japanese-battle-partners?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#heat-wave-arena
+URL = "https://www.pricecharting.com/console/pokemon-japanese-heat-wave-arena?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#black-bolt
+URL = "https://www.pricecharting.com/console/pokemon-japanese-black-bolt?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#mega-dream
+URL = "https://www.pricecharting.com/console/pokemon-japanese-mega-dream-ex?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#violet-ex
+URL = "https://www.pricecharting.com/console/pokemon-japanese-violet-ex?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#triplet-beat
+URL = "https://www.pricecharting.com/console/pokemon-japanese-triplet-beat?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#shiny-star-v
+URL = "https://www.pricecharting.com/console/pokemon-japanese-shiny-star-v?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#shiny-treasure-ex
+URL = "https://www.pricecharting.com/console/pokemon-japanese-shiny-treasure-ex?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#OP-07
+URL = "https://www.pricecharting.com/console/one-piece-japanese-500-years-in-the-future?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#legacy-of-the-master
+URL = "https://www.pricecharting.com/console/one-piece-japanese-legacy-of-the-master?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#extra-booster-egghead-crisis
+URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-egghead-crisis?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#azure-sea%27s-seven
+URL = "https://www.pricecharting.com/console/one-piece-japanese-azure-sea%27s-seven?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#one-piece-japanese-royal-blood
+URL = "https://www.pricecharting.com/console/one-piece-japanese-royal-blood?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#one-piece-japanese-carrying-on-his-will
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-carrying-on-his-will?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#one-piece-japanese-adventure-on-kami%27s-island
+URL = "https://www.pricecharting.com/console/one-piece-japanese-adventure-on-kami%27s-island?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#one-piece-japanese-emperors-in-the-new-world
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-emperors-in-the-new-world?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#one-piece-japanese-awakening-of-the-new-era
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-awakening-of-the-new-era?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#one-piece-japanese-fist-of-divine-speed
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-fist-of-divine-speed?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#one-piece-japanese-extra-booster-anime-25th-collection
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-anime-25th-collection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#pokemon-japanese-vstar-universe
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-vstar-universe?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#one-piece-japanese-extra-booster-heroines-edition
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-heroines-edition?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#pokemon-ascended-heroes
+URL = "https://www.pricecharting.com/console/pokemon-ascended-heroes?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 
 
-SELECCION = "A24"
+def obtener_codigo_coleccion_desde_url(url: str) -> str:
+    ruta = urlparse(url).path.rstrip("/")
+    return ruta.split("/")[-1]
+
+SELECCION = "A66"
 COLECCION = ""
-CODIGO_COLECCION = "MEGA-DREAM-COREANO"
+CODIGO_COLECCION = obtener_codigo_coleccion_desde_url(URL)
 
-JSON_PATH = "data/espirales.json"
+JSON_PATH = "data/espirales_valladolid.json"
 IMAGES_DIR = f"images/cartas/{CODIGO_COLECCION}"
 TOP_N = 10
 
@@ -56,25 +122,17 @@ HEADLESS = False
 # =========================
 # UTILIDADES
 # =========================
+
+
 def limpiar_precio(precio_texto: str) -> str:
-    """
-    '2.500,00 €' -> '2500.00€'
-    '119,99 €'   -> '119.99€'
-    """
-    precio = precio_texto.strip()
-    precio = precio.replace(".", "")
-    precio = precio.replace(",", ".")
-    precio = precio.replace(" €", "€")
-    return precio
+    return precio_texto.strip()
 
 
 def limpiar_nombre(nombre: str) -> str:
     """
-    Elimina prefijos tipo 'OP05-JP ' y arregla algunos nombres.
+    Limpia espacios extra.
     """
     nombre = nombre.strip()
-    nombre = re.sub(r"^[A-Z0-9\-]+(?:\s+[A-Z0-9\-]+)?\s+", "", nombre)
-    nombre = nombre.replace('Eustass"Captain"Kid', 'Eustass "Captain" Kid')
     nombre = re.sub(r"\s+", " ", nombre).strip()
     return nombre
 
@@ -96,24 +154,65 @@ def guardar_json(path: str, data: dict) -> None:
 
 
 def guardar_screenshot_imagen(driver, img_element, destino: str) -> None:
+    src = img_element.get_attribute("src") or ""
+    src_grande = src.replace("/60.jpg", "/1600.jpg")
+
+    if not src_grande:
+        raise ValueError("No se pudo obtener la URL de la imagen")
+
+    ventana_original = driver.current_window_handle
+
+    driver.switch_to.new_window("tab")
+    driver.get(src_grande)
+
+    img_grande = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.TAG_NAME, "img"))
+    )
+
+    WebDriverWait(driver, 10).until(
+        lambda d: d.execute_script(
+            "return arguments[0].complete && arguments[0].naturalWidth > 0;",
+            img_grande
+        )
+    )
+
+    time.sleep(0.5)
+    img_grande.screenshot(destino)
+
+    driver.close()
+    driver.switch_to.window(ventana_original)
+
+
+def obtener_texto_precio(card) -> str:
     """
-    Guarda la imagen renderizada directamente desde el navegador.
-    Evita SSL, 403 y bloqueos al descargar desde la URL.
+    Prioriza used_price.
+    Si está vacío, prueba cib_price y luego new_price.
     """
-    driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", img_element)
-    time.sleep(0.8)
+    selectores = [
+        "td.used_price .js-price",
+        "td.cib_price .js-price",
+        "td.new_price .js-price",
+    ]
 
-    # Intenta forzar lazy load
-    driver.execute_script("""
-        const img = arguments[0];
-        if (img.dataset && img.dataset.echo && (!img.src || img.src.includes('transparent.gif'))) {
-            img.src = img.dataset.echo;
-        }
-    """, img_element)
+    for selector in selectores:
+        try:
+            texto = card.find_element(By.CSS_SELECTOR, selector).text.strip()
+            if texto:
+                return texto
+        except Exception:
+            pass
 
-    time.sleep(1.2)
+    return ""
 
-    img_element.screenshot(destino)
+def obtener_texto_precio_psa_10(card) -> str:
+    """
+    Usa la columna new_price como precio PSA 10.
+    Si está vacía, devuelve cadena vacía.
+    """
+    try:
+        return card.find_element(By.CSS_SELECTOR, "td.new_price .js-price").text.strip()
+    except Exception:
+        return ""
 
 
 # =========================
@@ -138,50 +237,45 @@ try:
 
     driver.get(URL)
 
-    # Aceptar cookies si aparecen
-    try:
-        cookie_buttons = driver.find_elements(By.CSS_SELECTOR, "#CookiesConsent button[type='submit']")
-        if cookie_buttons:
-            cookie_buttons[0].click()
-            time.sleep(1)
-    except Exception:
-        pass
-
-    cards = wait.until(
+    rows = wait.until(
         EC.presence_of_all_elements_located(
-            (By.CSS_SELECTOR, "main.container section > div.row > div.d-flex.mb-4")
+            (By.CSS_SELECTOR, "tbody tr[data-product]")
         )
     )[:TOP_N]
 
     cartas = []
 
-    for idx, card in enumerate(cards, start=1):
-        # Scroll a la carta
-        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", card)
-        time.sleep(0.8)
+    for idx, row in enumerate(rows, start=1):
+        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", row)
+        time.sleep(0.5)
 
         # Nombre
-        name_raw = card.find_element(By.CSS_SELECTOR, "h2.card-title").text.strip()
+        name_raw = row.find_element(By.CSS_SELECTOR, "td.title a").text.strip()
         name = limpiar_nombre(name_raw)
 
         # Precio
-        price_raw = card.find_element(By.CSS_SELECTOR, "p.card-text.text-muted b").text.strip()
+        price_raw = obtener_texto_precio(row)
         price = limpiar_precio(price_raw)
 
+        # Precio PSA 10
+        price_psa_10_raw = obtener_texto_precio_psa_10(row)
+        price_psa_10 = limpiar_precio(price_psa_10_raw)
+
         # Imagen
-        img_tag = card.find_element(By.CSS_SELECTOR, "img")
+        img_tag = row.find_element(By.CSS_SELECTOR, "td.image img.photo")
         filename = f"{CODIGO_COLECCION}_{idx}.png"
         local_file_path = os.path.join(IMAGES_DIR, filename)
 
         guardar_screenshot_imagen(driver, img_tag, local_file_path)
 
         cartas.append({
-            "nombre": f"#{idx} {name}",
-            "precio": price,
-            "imagen": f"images/cartas/{CODIGO_COLECCION}/{filename}"
-        })
+    "nombre": f"#{idx} {name}",
+    "precio": price,
+    "precio_psa_10": price_psa_10,
+    "imagen": f"images/cartas/{CODIGO_COLECCION}/{filename}"
+})
 
-        print(f"Guardada carta #{idx}: {name}")
+        print(f"Guardada carta #{idx}: {name} - {price}")
 
     nuevo_bloque = {
         "coleccion": COLECCION,

@@ -1,0 +1,2098 @@
+{
+  "A11": {
+    "coleccion": "",
+    "cartas": []
+  },
+  "A12": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Terapagos ex #130",
+        "precio": "$26.45",
+        "precio_psa_10": "$60.69",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_1.png"
+      },
+      {
+        "nombre": "#2 Dachsbun ex #129",
+        "precio": "$22.82",
+        "precio_psa_10": "$60.00",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_2.png"
+      },
+      {
+        "nombre": "#3 Lacey #131",
+        "precio": "$22.17",
+        "precio_psa_10": "$81.69",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_3.png"
+      },
+      {
+        "nombre": "#4 Hydrapple ex #127",
+        "precio": "$18.25",
+        "precio_psa_10": "$47.81",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_4.png"
+      },
+      {
+        "nombre": "#5 Briar #132",
+        "precio": "$13.59",
+        "precio_psa_10": "$55.21",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_5.png"
+      },
+      {
+        "nombre": "#6 Galvantula ex #128",
+        "precio": "$13.25",
+        "precio_psa_10": "$39.98",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_6.png"
+      },
+      {
+        "nombre": "#7 Terapagos ex #133",
+        "precio": "$9.12",
+        "precio_psa_10": "$30.50",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_7.png"
+      },
+      {
+        "nombre": "#8 Area Zero Underdepths #135",
+        "precio": "$7.25",
+        "precio_psa_10": "$42.85",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_8.png"
+      },
+      {
+        "nombre": "#9 Bravery Charm #134",
+        "precio": "$5.50",
+        "precio_psa_10": "$53.17",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_9.png"
+      },
+      {
+        "nombre": "#10 Lacey #124",
+        "precio": "$5.00",
+        "precio_psa_10": "$36.34",
+        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_10.png"
+      }
+    ]
+  },
+  "A13": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Reshiram ex #174",
+        "precio": "$253.95",
+        "precio_psa_10": "$488.63",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_1.png"
+      },
+      {
+        "nombre": "#2 Reshiram Ex #168",
+        "precio": "$129.99",
+        "precio_psa_10": "$193.75",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_2.png"
+      },
+      {
+        "nombre": "#3 Hilda #173",
+        "precio": "$39.78",
+        "precio_psa_10": "$137.21",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_3.png"
+      },
+      {
+        "nombre": "#4 Hydreigon Ex #171",
+        "precio": "$38.60",
+        "precio_psa_10": "$98.85",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_4.png"
+      },
+      {
+        "nombre": "#5 Oshawott #102",
+        "precio": "$25.00",
+        "precio_psa_10": "$112.50",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_5.png"
+      },
+      {
+        "nombre": "#6 Keldeo Ex #169",
+        "precio": "$24.09",
+        "precio_psa_10": "$60.07",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_6.png"
+      },
+      {
+        "nombre": "#7 Jellicent Ex #170",
+        "precio": "$17.50",
+        "precio_psa_10": "$34.10",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_7.png"
+      },
+      {
+        "nombre": "#8 Whimsicott Ex #167",
+        "precio": "$15.53",
+        "precio_psa_10": "$60.49",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_8.png"
+      },
+      {
+        "nombre": "#9 Zoroark #141",
+        "precio": "$14.85",
+        "precio_psa_10": "$86.87",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_9.png"
+      },
+      {
+        "nombre": "#10 Zorua #140",
+        "precio": "$13.94",
+        "precio_psa_10": "$37.93",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_10.png"
+      }
+    ]
+  },
+  "A14": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Bianca's Sincerity #97",
+        "precio": "$40.28",
+        "precio_psa_10": "$121.45",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_1.png"
+      },
+      {
+        "nombre": "#2 Iron Crown ex #94",
+        "precio": "$25.25",
+        "precio_psa_10": "$49.25",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_2.png"
+      },
+      {
+        "nombre": "#3 Iron Leaves ex #93",
+        "precio": "$20.27",
+        "precio_psa_10": "$40.00",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_3.png"
+      },
+      {
+        "nombre": "#4 Iron Boulder ex #95",
+        "precio": "$12.48",
+        "precio_psa_10": "$42.67",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_4.png"
+      },
+      {
+        "nombre": "#5 Deerling #73",
+        "precio": "$11.30",
+        "precio_psa_10": "$47.50",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_5.png"
+      },
+      {
+        "nombre": "#6 Salvatore #96",
+        "precio": "$9.63",
+        "precio_psa_10": "$50.00",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_6.png"
+      },
+      {
+        "nombre": "#7 Sawsbuck #74",
+        "precio": "$9.02",
+        "precio_psa_10": "$46.00",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_7.png"
+      },
+      {
+        "nombre": "#8 Iron Leaves ex #98",
+        "precio": "$7.69",
+        "precio_psa_10": "$32.92",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_8.png"
+      },
+      {
+        "nombre": "#9 Litten #75",
+        "precio": "$6.75",
+        "precio_psa_10": "$44.99",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_9.png"
+      },
+      {
+        "nombre": "#10 Bianca's Sincerity #92",
+        "precio": "$5.56",
+        "precio_psa_10": "$48.50",
+        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_10.png"
+      }
+    ]
+  },
+  "A15": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Parasol Lady #89",
+        "precio": "$39.99",
+        "precio_psa_10": "$110.01",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Gholdengo ex #87",
+        "precio": "$33.79",
+        "precio_psa_10": "$86.76",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Garchomp ex #85",
+        "precio": "$31.25",
+        "precio_psa_10": "$70.10",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Garchomp ex #90",
+        "precio": "$23.79",
+        "precio_psa_10": "$49.22",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Rika #88",
+        "precio": "$23.05",
+        "precio_psa_10": "$54.86",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Groudon #69",
+        "precio": "$21.99",
+        "precio_psa_10": "$71.50",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Tapu Koko ex #86",
+        "precio": "$21.58",
+        "precio_psa_10": "$69.99",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Plusle #65",
+        "precio": "$15.22",
+        "precio_psa_10": "$56.96",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Minun #66",
+        "precio": "$10.66",
+        "precio_psa_10": "$48.99",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Parasol Lady #84",
+        "precio": "$10.25",
+        "precio_psa_10": "$37.00",
+        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_10.png"
+      }
+    ]
+  },
+  "A16": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Umbreon VMAX #95",
+        "precio": "$1,995.45",
+        "precio_psa_10": "$4,057.51",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Sylveon VMAX #93",
+        "precio": "$579.19",
+        "precio_psa_10": "$1,164.69",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Glaceon VMAX #91",
+        "precio": "$336.07",
+        "precio_psa_10": "$754.00",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Leafeon VMAX #89",
+        "precio": "$330.00",
+        "precio_psa_10": "$599.94",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Umbreon V #85",
+        "precio": "$230.56",
+        "precio_psa_10": "$481.00",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Sealed Promo Box",
+        "precio": "$229.99",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Espeon V #81",
+        "precio": "$119.28",
+        "precio_psa_10": "$200.26",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Sylveon V #83",
+        "precio": "$112.76",
+        "precio_psa_10": "$219.79",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Glaceon V #77",
+        "precio": "$102.30",
+        "precio_psa_10": "$175.78",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Vaporeon V #75",
+        "precio": "$101.83",
+        "precio_psa_10": "$190.39",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_10.png"
+      }
+    ]
+  },
+  "A21": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Rayquaza VMAX #83",
+        "precio": "$1,250.00",
+        "precio_psa_10": "$3,822.58",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Rayquaza V #76",
+        "precio": "$329.57",
+        "precio_psa_10": "$1,129.18",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Dragonite V #74",
+        "precio": "$257.24",
+        "precio_psa_10": "$654.61",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Rayquaza VMAX #82",
+        "precio": "$54.41",
+        "precio_psa_10": "$180.67",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Lightning Energy #90",
+        "precio": "$23.83",
+        "precio_psa_10": "$39.73",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Medicham V #72",
+        "precio": "$21.71",
+        "precio_psa_10": "$74.10",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Gyarados VMAX #81",
+        "precio": "$20.50",
+        "precio_psa_10": "$88.92",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Shauna #77",
+        "precio": "$18.62",
+        "precio_psa_10": "$66.25",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Rayquaza V #75",
+        "precio": "$18.44",
+        "precio_psa_10": "$104.20",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Zinnia's Resolve #79",
+        "precio": "$17.50",
+        "precio_psa_10": "$56.00",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_10.png"
+      }
+    ]
+  },
+  "A22": {
+    "coleccion": "",
+    "cartas": []
+  },
+  "A23": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Mega Lucario Ex #92",
+        "precio": "$258.95",
+        "precio_psa_10": "$531.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Lillie's Determination #91",
+        "precio": "$148.99",
+        "precio_psa_10": "$490.89",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Mega Lucario ex #88",
+        "precio": "$67.19",
+        "precio_psa_10": "$118.20",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Mega Venusaur ex #87",
+        "precio": "$50.00",
+        "precio_psa_10": "$79.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Mega Absol Ex #89",
+        "precio": "$27.37",
+        "precio_psa_10": "$90.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Lillie's Determination #86",
+        "precio": "$25.76",
+        "precio_psa_10": "$132.50",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Mega Lucario Ex #78",
+        "precio": "$10.24",
+        "precio_psa_10": "$48.73",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Bulbasaur #64",
+        "precio": "$10.08",
+        "precio_psa_10": "$44.71",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Mega Venusaur Ex #76",
+        "precio": "$9.56",
+        "precio_psa_10": "$40.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Lt. Surge's Deal #90",
+        "precio": "$7.00",
+        "precio_psa_10": "$53.50",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_10.png"
+      }
+    ]
+  },
+  "A24": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Mega Charizard X Ex #116",
+        "precio": "$575.33",
+        "precio_psa_10": "$2,239.02",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Mega Charizard X Ex #110",
+        "precio": "$550.37",
+        "precio_psa_10": "$1,052.78",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Oricorio Ex #111",
+        "precio": "$37.42",
+        "precio_psa_10": "$99.94",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Mega Charizard X Ex #94",
+        "precio": "$29.67",
+        "precio_psa_10": "$84.75",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Dawn #115",
+        "precio": "$29.50",
+        "precio_psa_10": "$71.18",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Mega Sharpedo Ex #113",
+        "precio": "$12.07",
+        "precio_psa_10": "$40.50",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Mega Lopunny Ex #114",
+        "precio": "$11.55",
+        "precio_psa_10": "$40.00",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Dawn #106",
+        "precio": "$10.24",
+        "precio_psa_10": "$54.70",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Rotom Ex #112",
+        "precio": "$10.00",
+        "precio_psa_10": "$39.15",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Piplup #85",
+        "precio": "$6.87",
+        "precio_psa_10": "$41.50",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_10.png"
+      }
+    ]
+  },
+  "A25": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Ice Rider Calyrex VMAX #85",
+        "precio": "$110.01",
+        "precio_psa_10": "$372.78",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Galarian Rapidash V #75",
+        "precio": "$39.35",
+        "precio_psa_10": "$75.50",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Tornadus V #79",
+        "precio": "$29.99",
+        "precio_psa_10": "$55.81",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Water Energy #95",
+        "precio": "$28.21",
+        "precio_psa_10": "$80.52",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Ice Rider Calyrex V #73",
+        "precio": "$26.09",
+        "precio_psa_10": "$46.00",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Flannery #80",
+        "precio": "$16.20",
+        "precio_psa_10": "$50.00",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Ice Rider Calyrex VMAX #84",
+        "precio": "$10.72",
+        "precio_psa_10": "$27.18",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Melony #83",
+        "precio": "$8.99",
+        "precio_psa_10": "$28.25",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Melony #91",
+        "precio": "$8.91",
+        "precio_psa_10": "$30.25",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Flannery #88",
+        "precio": "$8.66",
+        "precio_psa_10": "$28.25",
+        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_10.png"
+      }
+    ]
+  },
+  "A26": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Raging Bolt ex #95",
+        "precio": "$42.94",
+        "precio_psa_10": "$79.00",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Morty's Confidence #97",
+        "precio": "$41.50",
+        "precio_psa_10": "$115.90",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Walking Wake ex #94",
+        "precio": "$30.00",
+        "precio_psa_10": "$64.00",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Gengar ex #88",
+        "precio": "$25.34",
+        "precio_psa_10": "$106.50",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Gouging Fire ex #93",
+        "precio": "$24.55",
+        "precio_psa_10": "$51.00",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Gastly #80",
+        "precio": "$22.20",
+        "precio_psa_10": "$63.81",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Eri #96",
+        "precio": "$17.25",
+        "precio_psa_10": "$44.55",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Raging Bolt ex #100",
+        "precio": "$14.30",
+        "precio_psa_10": "$43.83",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Gouging Fire ex #98",
+        "precio": "$11.12",
+        "precio_psa_10": "$45.46",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Wiglett #21",
+        "precio": "$8.81",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_10.png"
+      }
+    ]
+  },
+  "A31": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Charizard ex #134",
+        "precio": "$154.60",
+        "precio_psa_10": "$424.99",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Charizard ex #139",
+        "precio": "$47.89",
+        "precio_psa_10": "$132.47",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Pidgeot ex #136",
+        "precio": "$23.45",
+        "precio_psa_10": "$55.00",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Charizard ex #125",
+        "precio": "$18.59",
+        "precio_psa_10": "$70.69",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Poppy #138",
+        "precio": "$12.92",
+        "precio_psa_10": "$33.50",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Artazon #140",
+        "precio": "$11.07",
+        "precio_psa_10": "$25.58",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Fire Energy #141",
+        "precio": "$10.90",
+        "precio_psa_10": "$39.99",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Ninetales #110",
+        "precio": "$10.55",
+        "precio_psa_10": "$56.72",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Cleffa #113",
+        "precio": "$10.46",
+        "precio_psa_10": "$61.60",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Geeta #137",
+        "precio": "$9.73",
+        "precio_psa_10": "$33.25",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_10.png"
+      }
+    ]
+  },
+  "A32": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Blaziken VMAX #86",
+        "precio": "$258.95",
+        "precio_psa_10": "$431.72",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_1.png"
+      },
+      {
+        "nombre": "#2 Galarian Moltres V #78",
+        "precio": "$197.37",
+        "precio_psa_10": "$354.00",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_2.png"
+      },
+      {
+        "nombre": "#3 Snorlax #93",
+        "precio": "$85.53",
+        "precio_psa_10": "$126.09",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_3.png"
+      },
+      {
+        "nombre": "#4 Galarian Slowking V #80",
+        "precio": "$79.72",
+        "precio_psa_10": "$157.68",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_4.png"
+      },
+      {
+        "nombre": "#5 Galarian Articuno V #74",
+        "precio": "$51.85",
+        "precio_psa_10": "$97.38",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_5.png"
+      },
+      {
+        "nombre": "#6 Galarian Zapdos V #76",
+        "precio": "$40.45",
+        "precio_psa_10": "$94.35",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_6.png"
+      },
+      {
+        "nombre": "#7 Klara #82",
+        "precio": "$36.00",
+        "precio_psa_10": "$130.51",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_7.png"
+      },
+      {
+        "nombre": "#8 Blaziken VMAX #85",
+        "precio": "$23.09",
+        "precio_psa_10": "$53.57",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_8.png"
+      },
+      {
+        "nombre": "#9 Karen's Conviction #81",
+        "precio": "$22.00",
+        "precio_psa_10": "$56.31",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_9.png"
+      },
+      {
+        "nombre": "#10 Fighting Energy #96",
+        "precio": "$17.52",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_10.png"
+      }
+    ]
+  },
+  "A33": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Charizard V #103",
+        "precio": "$145.43",
+        "precio_psa_10": "$341.83",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_1.png"
+      },
+      {
+        "nombre": "#2 Charizard VSTAR #118",
+        "precio": "$52.00",
+        "precio_psa_10": "$153.51",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_2.png"
+      },
+      {
+        "nombre": "#3 Arceus V #112",
+        "precio": "$50.03",
+        "precio_psa_10": "$116.64",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_3.png"
+      },
+      {
+        "nombre": "#4 Charizard V #102",
+        "precio": "$26.80",
+        "precio_psa_10": "$72.90",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_4.png"
+      },
+      {
+        "nombre": "#5 Ultra Ball #126",
+        "precio": "$26.50",
+        "precio_psa_10": "$44.00",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_5.png"
+      },
+      {
+        "nombre": "#6 Cynthia's Ambition #114",
+        "precio": "$19.99",
+        "precio_psa_10": "$57.00",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_6.png"
+      },
+      {
+        "nombre": "#7 Arceus VSTAR #125",
+        "precio": "$15.63",
+        "precio_psa_10": "$46.91",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_7.png"
+      },
+      {
+        "nombre": "#8 Lumineon V #105",
+        "precio": "$15.49",
+        "precio_psa_10": "$40.02",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_8.png"
+      },
+      {
+        "nombre": "#9 Arceus VSTAR #120",
+        "precio": "$13.43",
+        "precio_psa_10": "$43.16",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_9.png"
+      },
+      {
+        "nombre": "#10 Cynthia's Ambition #122",
+        "precio": "$11.50",
+        "precio_psa_10": "$39.03",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_10.png"
+      }
+    ]
+  },
+  "A34": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Giratina V #111",
+        "precio": "$916.34",
+        "precio_psa_10": "$1,670.16",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_1.png"
+      },
+      {
+        "nombre": "#2 Aerodactyl V #106",
+        "precio": "$82.00",
+        "precio_psa_10": "$146.78",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_2.png"
+      },
+      {
+        "nombre": "#3 Giratina VSTAR #125",
+        "precio": "$35.62",
+        "precio_psa_10": "$75.00",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_3.png"
+      },
+      {
+        "nombre": "#4 Rotom V #104",
+        "precio": "$22.08",
+        "precio_psa_10": "$59.48",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_4.png"
+      },
+      {
+        "nombre": "#5 Giratina VSTAR #120",
+        "precio": "$20.61",
+        "precio_psa_10": "$80.92",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_5.png"
+      },
+      {
+        "nombre": "#6 Giratina V #110",
+        "precio": "$17.28",
+        "precio_psa_10": "$66.69",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_6.png"
+      },
+      {
+        "nombre": "#7 Lady #114",
+        "precio": "$13.79",
+        "precio_psa_10": "$39.15",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_7.png"
+      },
+      {
+        "nombre": "#8 Galarian Perrserker V #109",
+        "precio": "$9.87",
+        "precio_psa_10": "$31.13",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_8.png"
+      },
+      {
+        "nombre": "#9 Aerodactyl VSTAR #118",
+        "precio": "$9.70",
+        "precio_psa_10": "$53.64",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_9.png"
+      },
+      {
+        "nombre": "#10 Lady #122",
+        "precio": "$8.99",
+        "precio_psa_10": "$45.00",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_10.png"
+      }
+    ]
+  },
+  "A35": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Pikachu ex #132",
+        "precio": "$242.24",
+        "precio_psa_10": "$514.43",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_1.png"
+      },
+      {
+        "nombre": "#2 Milotic ex #131",
+        "precio": "$72.22",
+        "precio_psa_10": "$102.00",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_2.png"
+      },
+      {
+        "nombre": "#3 Pikachu Ex #136",
+        "precio": "$57.89",
+        "precio_psa_10": "$200.00",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_3.png"
+      },
+      {
+        "nombre": "#4 Hydreigon ex #133",
+        "precio": "$27.41",
+        "precio_psa_10": "$47.76",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_4.png"
+      },
+      {
+        "nombre": "#5 Pikachu ex #122",
+        "precio": "$20.94",
+        "precio_psa_10": "$109.64",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_5.png"
+      },
+      {
+        "nombre": "#6 Jasmine's Gaze #135",
+        "precio": "$19.36",
+        "precio_psa_10": "$53.50",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_6.png"
+      },
+      {
+        "nombre": "#7 Durant Ex #130",
+        "precio": "$14.07",
+        "precio_psa_10": "$43.15",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_7.png"
+      },
+      {
+        "nombre": "#8 Clemont's Wit #134",
+        "precio": "$9.63",
+        "precio_psa_10": "$33.00",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_8.png"
+      },
+      {
+        "nombre": "#9 Magneton #112",
+        "precio": "$9.20",
+        "precio_psa_10": "$53.00",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_9.png"
+      },
+      {
+        "nombre": "#10 Night Stretcher #137",
+        "precio": "$8.43",
+        "precio_psa_10": "$39.99",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_10.png"
+      }
+    ]
+  },
+  "A36": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Duraludon VMAX #83",
+        "precio": "$107.89",
+        "precio_psa_10": "$154.40",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_1.png"
+      },
+      {
+        "nombre": "#2 Noivern V #74",
+        "precio": "$51.32",
+        "precio_psa_10": "$90.00",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_2.png"
+      },
+      {
+        "nombre": "#3 Duraludon V #76",
+        "precio": "$30.55",
+        "precio_psa_10": "$55.00",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_3.png"
+      },
+      {
+        "nombre": "#4 Metal Energy #90",
+        "precio": "$30.03",
+        "precio_psa_10": "$10.30",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_4.png"
+      },
+      {
+        "nombre": "#5 Golurk V #70",
+        "precio": "$23.73",
+        "precio_psa_10": "$64.82",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_5.png"
+      },
+      {
+        "nombre": "#6 Cresselia #87",
+        "precio": "$19.24",
+        "precio_psa_10": "$69.00",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_6.png"
+      },
+      {
+        "nombre": "#7 Raihan #77",
+        "precio": "$11.93",
+        "precio_psa_10": "$38.99",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_7.png"
+      },
+      {
+        "nombre": "#8 Schoolgirl #78",
+        "precio": "$9.95",
+        "precio_psa_10": "$36.50",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_8.png"
+      },
+      {
+        "nombre": "#9 Copycat #79",
+        "precio": "$8.80",
+        "precio_psa_10": "$33.13",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_9.png"
+      },
+      {
+        "nombre": "#10 Suicune V #68",
+        "precio": "$8.69",
+        "precio_psa_10": "$26.82",
+        "imagen": "images/cartas/pokemon-japanese-skyscraping-perfection/pokemon-japanese-skyscraping-perfection_10.png"
+      }
+    ]
+  },
+  "A41": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Team Rocket's Mewtwo ex #125",
+        "precio": "$274.37",
+        "precio_psa_10": "$490.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_1.png"
+      },
+      {
+        "nombre": "#2 Team Rocket's Moltres ex #124",
+        "precio": "$97.63",
+        "precio_psa_10": "$158.75",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_2.png"
+      },
+      {
+        "nombre": "#3 Team Rocket's Nidoking ex #126",
+        "precio": "$62.66",
+        "precio_psa_10": "$100.98",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_3.png"
+      },
+      {
+        "nombre": "#4 Team Rocket's Crobat ex #127",
+        "precio": "$45.00",
+        "precio_psa_10": "$80.50",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_4.png"
+      },
+      {
+        "nombre": "#5 Team Rocket's Mewtwo ex #130",
+        "precio": "$41.49",
+        "precio_psa_10": "$76.22",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_5.png"
+      },
+      {
+        "nombre": "#6 Team Rocket's Giovanni #129",
+        "precio": "$19.99",
+        "precio_psa_10": "$80.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_6.png"
+      },
+      {
+        "nombre": "#7 Team Rocket's Ariana #128",
+        "precio": "$19.27",
+        "precio_psa_10": "$92.50",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_7.png"
+      },
+      {
+        "nombre": "#8 Team Rocket's Mewtwo ex #114",
+        "precio": "$18.99",
+        "precio_psa_10": "$68.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_8.png"
+      },
+      {
+        "nombre": "#9 Team Rocket's Crobat ex #131",
+        "precio": "$17.42",
+        "precio_psa_10": "$41.75",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_9.png"
+      },
+      {
+        "nombre": "#10 Jamming Tower #132",
+        "precio": "$12.72",
+        "precio_psa_10": "$30.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_10.png"
+      }
+    ]
+  },
+  "A42": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Reshiram ex #174",
+        "precio": "$253.95",
+        "precio_psa_10": "$488.63",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_1.png"
+      },
+      {
+        "nombre": "#2 Reshiram Ex #168",
+        "precio": "$129.99",
+        "precio_psa_10": "$193.75",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_2.png"
+      },
+      {
+        "nombre": "#3 Hilda #173",
+        "precio": "$39.78",
+        "precio_psa_10": "$137.21",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_3.png"
+      },
+      {
+        "nombre": "#4 Hydreigon Ex #171",
+        "precio": "$38.60",
+        "precio_psa_10": "$98.85",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_4.png"
+      },
+      {
+        "nombre": "#5 Oshawott #102",
+        "precio": "$25.00",
+        "precio_psa_10": "$112.50",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_5.png"
+      },
+      {
+        "nombre": "#6 Keldeo Ex #169",
+        "precio": "$24.09",
+        "precio_psa_10": "$60.07",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_6.png"
+      },
+      {
+        "nombre": "#7 Jellicent Ex #170",
+        "precio": "$17.50",
+        "precio_psa_10": "$34.10",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_7.png"
+      },
+      {
+        "nombre": "#8 Whimsicott Ex #167",
+        "precio": "$15.53",
+        "precio_psa_10": "$60.49",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_8.png"
+      },
+      {
+        "nombre": "#9 Zoroark #141",
+        "precio": "$14.85",
+        "precio_psa_10": "$86.87",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_9.png"
+      },
+      {
+        "nombre": "#10 Zorua #140",
+        "precio": "$13.94",
+        "precio_psa_10": "$37.93",
+        "imagen": "images/cartas/pokemon-japanese-white-flare/pokemon-japanese-white-flare_10.png"
+      }
+    ]
+  },
+  "A43": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Umbreon Ex #217",
+        "precio": "$328.00",
+        "precio_psa_10": "$520.00",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_1.png"
+      },
+      {
+        "nombre": "#2 Sylveon Ex #212",
+        "precio": "$107.28",
+        "precio_psa_10": "$185.00",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_2.png"
+      },
+      {
+        "nombre": "#3 Leafeon Ex #200",
+        "precio": "$57.18",
+        "precio_psa_10": "$109.99",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_3.png"
+      },
+      {
+        "nombre": "#4 Espeon Ex #211",
+        "precio": "$57.15",
+        "precio_psa_10": "$113.51",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_4.png"
+      },
+      {
+        "nombre": "#5 Vaporeon Ex #205",
+        "precio": "$52.67",
+        "precio_psa_10": "$107.50",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_5.png"
+      },
+      {
+        "nombre": "#6 Umbreon [Master Ball] #92",
+        "precio": "$49.99",
+        "precio_psa_10": "$143.32",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_6.png"
+      },
+      {
+        "nombre": "#7 Glaceon Ex #206",
+        "precio": "$48.50",
+        "precio_psa_10": "$107.50",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_7.png"
+      },
+      {
+        "nombre": "#8 Flareon Ex #202",
+        "precio": "$46.39",
+        "precio_psa_10": "$95.99",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_8.png"
+      },
+      {
+        "nombre": "#9 Pikachu Ex #236",
+        "precio": "$44.25",
+        "precio_psa_10": "$141.50",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_9.png"
+      },
+      {
+        "nombre": "#10 Jolteon Ex #209",
+        "precio": "$40.13",
+        "precio_psa_10": "$99.99",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_10.png"
+      }
+    ]
+  },
+  "A44": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Mega Zygarde ex #117",
+        "precio": "$221.42",
+        "precio_psa_10": "$1,825.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_1.png"
+      },
+      {
+        "nombre": "#2 Rosa's Encouragement #115",
+        "precio": "$141.41",
+        "precio_psa_10": "$1,150.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_2.png"
+      },
+      {
+        "nombre": "#3 Meowth ex #114",
+        "precio": "$81.00",
+        "precio_psa_10": "$232.55",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_3.png"
+      },
+      {
+        "nombre": "#4 Mega Gallade Ex Special Card Set",
+        "precio": "$44.98",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_4.png"
+      },
+      {
+        "nombre": "#5 Mega Starmie ex #111",
+        "precio": "$38.60",
+        "precio_psa_10": "$155.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_5.png"
+      },
+      {
+        "nombre": "#6 Mega Zygarde ex #113",
+        "precio": "$37.50",
+        "precio_psa_10": "$221.07",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_6.png"
+      },
+      {
+        "nombre": "#7 Mega Clefable ex #112",
+        "precio": "$29.13",
+        "precio_psa_10": "$145.75",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_7.png"
+      },
+      {
+        "nombre": "#8 Rosa's Encouragement #107",
+        "precio": "$19.99",
+        "precio_psa_10": "$128.16",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_8.png"
+      },
+      {
+        "nombre": "#9 Meowth ex #100",
+        "precio": "$19.38",
+        "precio_psa_10": "$225.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_9.png"
+      },
+      {
+        "nombre": "#10 Jacinthe #116",
+        "precio": "$19.36",
+        "precio_psa_10": "$129.74",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_10.png"
+      }
+    ]
+  },
+  "A45": {
+    "coleccion": "",
+    "cartas": []
+  },
+  "A46": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 N's Zoroark Ex [Misprint] #131",
+        "precio": "$1,330.00",
+        "precio_psa_10": "$1,557.55",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_1.png"
+      },
+      {
+        "nombre": "#2 Lillie's Clefairy ex #126",
+        "precio": "$150.00",
+        "precio_psa_10": "$233.94",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_2.png"
+      },
+      {
+        "nombre": "#3 Iono's Bellibolt ex #125",
+        "precio": "$49.25",
+        "precio_psa_10": "$97.50",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_3.png"
+      },
+      {
+        "nombre": "#4 N's Zoroark ex #127",
+        "precio": "$46.15",
+        "precio_psa_10": "$73.00",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_4.png"
+      },
+      {
+        "nombre": "#5 Salamence ex #129",
+        "precio": "$29.99",
+        "precio_psa_10": "$60.23",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_5.png"
+      },
+      {
+        "nombre": "#6 Hop's Zacian ex #128",
+        "precio": "$24.09",
+        "precio_psa_10": "$51.80",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_6.png"
+      },
+      {
+        "nombre": "#7 N's Zoroark ex #131",
+        "precio": "$18.08",
+        "precio_psa_10": "$41.00",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_7.png"
+      },
+      {
+        "nombre": "#8 Iono's Bellibolt ex #130",
+        "precio": "$13.96",
+        "precio_psa_10": "$44.50",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_8.png"
+      },
+      {
+        "nombre": "#9 Volcanion ex #124",
+        "precio": "$12.47",
+        "precio_psa_10": "$37.00",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_9.png"
+      },
+      {
+        "nombre": "#10 N's Reshiram #109",
+        "precio": "$11.00",
+        "precio_psa_10": "$45.00",
+        "imagen": "images/cartas/pokemon-japanese-battle-partners/pokemon-japanese-battle-partners_10.png"
+      }
+    ]
+  },
+  "A51": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Cynthia's Garchomp ex #87",
+        "precio": "$183.90",
+        "precio_psa_10": "$263.50",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_1.png"
+      },
+      {
+        "nombre": "#2 Ethan's Ho-Oh ex #86",
+        "precio": "$114.05",
+        "precio_psa_10": "$201.25",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_2.png"
+      },
+      {
+        "nombre": "#3 Ethan's Adventure #89",
+        "precio": "$46.31",
+        "precio_psa_10": "$71.86",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_3.png"
+      },
+      {
+        "nombre": "#4 Cynthia's Garchomp ex #91",
+        "precio": "$27.73",
+        "precio_psa_10": "$50.50",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_4.png"
+      },
+      {
+        "nombre": "#5 Misty's Psyduck #71",
+        "precio": "$25.12",
+        "precio_psa_10": "$75.99",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_5.png"
+      },
+      {
+        "nombre": "#6 Ethan's Ho-oh ex #90",
+        "precio": "$19.15",
+        "precio_psa_10": "$57.01",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_6.png"
+      },
+      {
+        "nombre": "#7 Arven's Mabosstiff ex #88",
+        "precio": "$16.55",
+        "precio_psa_10": "$40.00",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_7.png"
+      },
+      {
+        "nombre": "#8 Yanmega ex #85",
+        "precio": "$13.42",
+        "precio_psa_10": "$50.96",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_8.png"
+      },
+      {
+        "nombre": "#9 Levincia #92",
+        "precio": "$13.00",
+        "precio_psa_10": "$19.00",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_9.png"
+      },
+      {
+        "nombre": "#10 Ethan's Typhlosion #70",
+        "precio": "$11.96",
+        "precio_psa_10": "$50.00",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_10.png"
+      }
+    ]
+  },
+  "A52": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Zekrom ex #174",
+        "precio": "$226.55",
+        "precio_psa_10": "$447.50",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_1.png"
+      },
+      {
+        "nombre": "#2 Zekrom Ex #169",
+        "precio": "$132.99",
+        "precio_psa_10": "$198.25",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_2.png"
+      },
+      {
+        "nombre": "#3 Seismitoad #109",
+        "precio": "$54.09",
+        "precio_psa_10": "$110.50",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_3.png"
+      },
+      {
+        "nombre": "#4 N's Plot #173",
+        "precio": "$48.34",
+        "precio_psa_10": "$163.06",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_4.png"
+      },
+      {
+        "nombre": "#5 Kyurem Ex #168",
+        "precio": "$31.90",
+        "precio_psa_10": "$62.75",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_5.png"
+      },
+      {
+        "nombre": "#6 Serperior ex #167",
+        "precio": "$22.48",
+        "precio_psa_10": "$62.85",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_6.png"
+      },
+      {
+        "nombre": "#7 Meloetta Ex #170",
+        "precio": "$19.99",
+        "precio_psa_10": "$61.46",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_7.png"
+      },
+      {
+        "nombre": "#8 Genesect Ex #172",
+        "precio": "$18.49",
+        "precio_psa_10": "$67.45",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_8.png"
+      },
+      {
+        "nombre": "#9 Victini [Master Ball] #12",
+        "precio": "$15.59",
+        "precio_psa_10": "$73.31",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_9.png"
+      },
+      {
+        "nombre": "#10 Victini #97",
+        "precio": "$13.00",
+        "precio_psa_10": "$51.25",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_10.png"
+      }
+    ]
+  },
+  "A53": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Mega Gengar ex #240",
+        "precio": "$319.99",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_1.png"
+      },
+      {
+        "nombre": "#2 Mega Dragonite ex #250",
+        "precio": "$206.65",
+        "precio_psa_10": "$610.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_2.png"
+      },
+      {
+        "nombre": "#3 Mega Dragonite ex #246",
+        "precio": "$185.37",
+        "precio_psa_10": "$418.05",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_3.png"
+      },
+      {
+        "nombre": "#4 Pikachu ex #234",
+        "precio": "$181.00",
+        "precio_psa_10": "$541.82",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_4.png"
+      },
+      {
+        "nombre": "#5 Team Rocket's Mewtwo ex #237",
+        "precio": "$107.37",
+        "precio_psa_10": "$290.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_5.png"
+      },
+      {
+        "nombre": "#6 N's Zoroark ex #242",
+        "precio": "$65.24",
+        "precio_psa_10": "$169.50",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_6.png"
+      },
+      {
+        "nombre": "#7 Iono's Bellibolt ex #236",
+        "precio": "$48.10",
+        "precio_psa_10": "$145.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_7.png"
+      },
+      {
+        "nombre": "#8 Canari #248",
+        "precio": "$39.94",
+        "precio_psa_10": "$205.01",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_8.png"
+      },
+      {
+        "nombre": "#9 Mega Charizard X ex #223",
+        "precio": "$37.55",
+        "precio_psa_10": "$162.78",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_9.png"
+      },
+      {
+        "nombre": "#10 Marnie's Grimmsnarl ex #243",
+        "precio": "$35.30",
+        "precio_psa_10": "$120.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_10.png"
+      }
+    ]
+  },
+  "A54": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Zekrom ex #174",
+        "precio": "$226.55",
+        "precio_psa_10": "$447.50",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_1.png"
+      },
+      {
+        "nombre": "#2 Zekrom Ex #169",
+        "precio": "$132.99",
+        "precio_psa_10": "$198.25",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_2.png"
+      },
+      {
+        "nombre": "#3 Seismitoad #109",
+        "precio": "$54.09",
+        "precio_psa_10": "$110.50",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_3.png"
+      },
+      {
+        "nombre": "#4 N's Plot #173",
+        "precio": "$48.34",
+        "precio_psa_10": "$163.06",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_4.png"
+      },
+      {
+        "nombre": "#5 Kyurem Ex #168",
+        "precio": "$31.90",
+        "precio_psa_10": "$62.75",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_5.png"
+      },
+      {
+        "nombre": "#6 Serperior ex #167",
+        "precio": "$22.48",
+        "precio_psa_10": "$62.85",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_6.png"
+      },
+      {
+        "nombre": "#7 Meloetta Ex #170",
+        "precio": "$19.99",
+        "precio_psa_10": "$61.46",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_7.png"
+      },
+      {
+        "nombre": "#8 Genesect Ex #172",
+        "precio": "$18.49",
+        "precio_psa_10": "$67.45",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_8.png"
+      },
+      {
+        "nombre": "#9 Victini [Master Ball] #12",
+        "precio": "$15.59",
+        "precio_psa_10": "$73.31",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_9.png"
+      },
+      {
+        "nombre": "#10 Victini #97",
+        "precio": "$13.00",
+        "precio_psa_10": "$51.25",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_10.png"
+      }
+    ]
+  },
+  "A55": {
+    "coleccion": "",
+    "cartas": []
+  },
+  "A56": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Mega Lucario Ex #92",
+        "precio": "$258.95",
+        "precio_psa_10": "$531.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Lillie's Determination #91",
+        "precio": "$148.99",
+        "precio_psa_10": "$490.89",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Mega Lucario ex #88",
+        "precio": "$67.19",
+        "precio_psa_10": "$118.20",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Mega Venusaur ex #87",
+        "precio": "$50.00",
+        "precio_psa_10": "$79.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Mega Absol Ex #89",
+        "precio": "$27.37",
+        "precio_psa_10": "$90.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Lillie's Determination #86",
+        "precio": "$25.76",
+        "precio_psa_10": "$132.50",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Mega Lucario Ex #78",
+        "precio": "$10.24",
+        "precio_psa_10": "$48.73",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Bulbasaur #64",
+        "precio": "$10.08",
+        "precio_psa_10": "$44.71",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Mega Venusaur Ex #76",
+        "precio": "$9.56",
+        "precio_psa_10": "$40.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Lt. Surge's Deal #90",
+        "precio": "$7.00",
+        "precio_psa_10": "$53.50",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_10.png"
+      }
+    ]
+  },
+  "A61": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Miriam #105",
+        "precio": "$95.00",
+        "precio_psa_10": "$240.73",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_1.png"
+      },
+      {
+        "nombre": "#2 Miraidon EX #102",
+        "precio": "$39.99",
+        "precio_psa_10": "$64.91",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_2.png"
+      },
+      {
+        "nombre": "#3 Miriam #100",
+        "precio": "$18.32",
+        "precio_psa_10": "$48.25",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_3.png"
+      },
+      {
+        "nombre": "#4 Lightning Energy #108",
+        "precio": "$15.16",
+        "precio_psa_10": "$19.24",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_4.png"
+      },
+      {
+        "nombre": "#5 Miraidon EX #106",
+        "precio": "$12.55",
+        "precio_psa_10": "$47.00",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_5.png"
+      },
+      {
+        "nombre": "#6 Drowzee #86",
+        "precio": "$10.89",
+        "precio_psa_10": "$59.99",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_6.png"
+      },
+      {
+        "nombre": "#7 Spidops EX #101",
+        "precio": "$10.81",
+        "precio_psa_10": "$37.92",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_7.png"
+      },
+      {
+        "nombre": "#8 Rare Candy #107",
+        "precio": "$9.99",
+        "precio_psa_10": "$41.98",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_8.png"
+      },
+      {
+        "nombre": "#9 Slowpoke #82",
+        "precio": "$9.78",
+        "precio_psa_10": "$51.00",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_9.png"
+      },
+      {
+        "nombre": "#10 Arven #104",
+        "precio": "$9.51",
+        "precio_psa_10": "$28.09",
+        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_10.png"
+      }
+    ]
+  },
+  "A62": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Magikarp #80",
+        "precio": "$114.99",
+        "precio_psa_10": "$244.97",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_1.png"
+      },
+      {
+        "nombre": "#2 Meowscarada #96",
+        "precio": "$57.94",
+        "precio_psa_10": "$60.21",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_2.png"
+      },
+      {
+        "nombre": "#3 Dendra #99",
+        "precio": "$57.55",
+        "precio_psa_10": "$86.50",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_3.png"
+      },
+      {
+        "nombre": "#4 Skeledirge ex #97",
+        "precio": "$39.21",
+        "precio_psa_10": "$54.99",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_4.png"
+      },
+      {
+        "nombre": "#5 Boss's Orders #100",
+        "precio": "$22.49",
+        "precio_psa_10": "$51.12",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_5.png"
+      },
+      {
+        "nombre": "#6 Quaquaval ex #98",
+        "precio": "$21.27",
+        "precio_psa_10": "$36.22",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_6.png"
+      },
+      {
+        "nombre": "#7 Sprigatito #75",
+        "precio": "$10.58",
+        "precio_psa_10": "$33.67",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_7.png"
+      },
+      {
+        "nombre": "#8 Meowscarada ex #101",
+        "precio": "$9.98",
+        "precio_psa_10": "$43.00",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_8.png"
+      },
+      {
+        "nombre": "#9 Mismagius #83",
+        "precio": "$9.54",
+        "precio_psa_10": "$42.04",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_9.png"
+      },
+      {
+        "nombre": "#10 Fuecoco #78",
+        "precio": "$8.75",
+        "precio_psa_10": "$46.00",
+        "imagen": "images/cartas/pokemon-japanese-triplet-beat/pokemon-japanese-triplet-beat_10.png"
+      }
+    ]
+  },
+  "A63": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Pikachu #205",
+        "precio": "$184.62",
+        "precio_psa_10": "$396.10",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_1.png"
+      },
+      {
+        "nombre": "#2 Giratina VSTAR #261",
+        "precio": "$158.75",
+        "precio_psa_10": "$246.20",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_2.png"
+      },
+      {
+        "nombre": "#3 Arceus VSTAR #262",
+        "precio": "$89.27",
+        "precio_psa_10": "$168.32",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_3.png"
+      },
+      {
+        "nombre": "#4 Charizard VSTAR #212",
+        "precio": "$72.62",
+        "precio_psa_10": "$179.99",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_4.png"
+      },
+      {
+        "nombre": "#5 Mewtwo VSTAR #221",
+        "precio": "$71.51",
+        "precio_psa_10": "$160.11",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_5.png"
+      },
+      {
+        "nombre": "#6 Origin Forme Dialga VSTAR #260",
+        "precio": "$65.60",
+        "precio_psa_10": "$107.50",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_6.png"
+      },
+      {
+        "nombre": "#7 Origin Forme Palkia VSTAR #259",
+        "precio": "$59.50",
+        "precio_psa_10": "$102.50",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_7.png"
+      },
+      {
+        "nombre": "#8 Charizard V #211",
+        "precio": "$35.83",
+        "precio_psa_10": "$95.92",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_8.png"
+      },
+      {
+        "nombre": "#9 Leafeon VSTAR #210",
+        "precio": "$35.74",
+        "precio_psa_10": "$76.00",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_9.png"
+      },
+      {
+        "nombre": "#10 Glaceon VSTAR #217",
+        "precio": "$31.90",
+        "precio_psa_10": "$65.79",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_10.png"
+      }
+    ]
+  },
+  "A64": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Pikachu ex #132",
+        "precio": "$242.24",
+        "precio_psa_10": "$514.43",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_1.png"
+      },
+      {
+        "nombre": "#2 Milotic ex #131",
+        "precio": "$72.22",
+        "precio_psa_10": "$102.00",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_2.png"
+      },
+      {
+        "nombre": "#3 Pikachu Ex #136",
+        "precio": "$57.89",
+        "precio_psa_10": "$200.00",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_3.png"
+      },
+      {
+        "nombre": "#4 Hydreigon ex #133",
+        "precio": "$27.41",
+        "precio_psa_10": "$47.76",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_4.png"
+      },
+      {
+        "nombre": "#5 Pikachu ex #122",
+        "precio": "$20.94",
+        "precio_psa_10": "$109.64",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_5.png"
+      },
+      {
+        "nombre": "#6 Jasmine's Gaze #135",
+        "precio": "$19.36",
+        "precio_psa_10": "$53.50",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_6.png"
+      },
+      {
+        "nombre": "#7 Durant Ex #130",
+        "precio": "$14.07",
+        "precio_psa_10": "$43.15",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_7.png"
+      },
+      {
+        "nombre": "#8 Clemont's Wit #134",
+        "precio": "$9.63",
+        "precio_psa_10": "$33.00",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_8.png"
+      },
+      {
+        "nombre": "#9 Magneton #112",
+        "precio": "$9.20",
+        "precio_psa_10": "$53.00",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_9.png"
+      },
+      {
+        "nombre": "#10 Night Stretcher #137",
+        "precio": "$8.43",
+        "precio_psa_10": "$39.99",
+        "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_10.png"
+      }
+    ]
+  },
+  "A65": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Mew ex #347",
+        "precio": "$307.59",
+        "precio_psa_10": "$676.50",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_1.png"
+      },
+      {
+        "nombre": "#2 Charizard ex #349",
+        "precio": "$211.08",
+        "precio_psa_10": "$410.73",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_2.png"
+      },
+      {
+        "nombre": "#3 Gardevoir ex #348",
+        "precio": "$98.00",
+        "precio_psa_10": "$181.38",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_3.png"
+      },
+      {
+        "nombre": "#4 Iono #350",
+        "precio": "$33.50",
+        "precio_psa_10": "$136.35",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_4.png"
+      },
+      {
+        "nombre": "#5 Pikachu #236",
+        "precio": "$21.89",
+        "precio_psa_10": "$124.00",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_5.png"
+      },
+      {
+        "nombre": "#6 Penny #354",
+        "precio": "$17.46",
+        "precio_psa_10": "$54.80",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_6.png"
+      },
+      {
+        "nombre": "#7 Mew ex #327",
+        "precio": "$15.99",
+        "precio_psa_10": "$67.14",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_7.png"
+      },
+      {
+        "nombre": "#8 Charizard ex #331",
+        "precio": "$15.89",
+        "precio_psa_10": "$67.24",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_8.png"
+      },
+      {
+        "nombre": "#9 Clive #352",
+        "precio": "$14.61",
+        "precio_psa_10": "$63.28",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_9.png"
+      },
+      {
+        "nombre": "#10 Mimikyu #341",
+        "precio": "$12.99",
+        "precio_psa_10": "$53.13",
+        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_10.png"
+      }
+    ]
+  },
+  "A66": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Mega Charizard X Ex #116",
+        "precio": "$575.33",
+        "precio_psa_10": "$2,239.02",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_1.png"
+      },
+      {
+        "nombre": "#2 Mega Charizard X Ex #110",
+        "precio": "$550.37",
+        "precio_psa_10": "$1,052.78",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_2.png"
+      },
+      {
+        "nombre": "#3 Oricorio Ex #111",
+        "precio": "$37.42",
+        "precio_psa_10": "$99.94",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_3.png"
+      },
+      {
+        "nombre": "#4 Mega Charizard X Ex #94",
+        "precio": "$29.67",
+        "precio_psa_10": "$84.75",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_4.png"
+      },
+      {
+        "nombre": "#5 Dawn #115",
+        "precio": "$29.50",
+        "precio_psa_10": "$71.18",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_5.png"
+      },
+      {
+        "nombre": "#6 Mega Sharpedo Ex #113",
+        "precio": "$12.07",
+        "precio_psa_10": "$40.50",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_6.png"
+      },
+      {
+        "nombre": "#7 Mega Lopunny Ex #114",
+        "precio": "$11.55",
+        "precio_psa_10": "$40.00",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_7.png"
+      },
+      {
+        "nombre": "#8 Dawn #106",
+        "precio": "$10.24",
+        "precio_psa_10": "$54.70",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_8.png"
+      },
+      {
+        "nombre": "#9 Rotom Ex #112",
+        "precio": "$10.00",
+        "precio_psa_10": "$39.15",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_9.png"
+      },
+      {
+        "nombre": "#10 Piplup #85",
+        "precio": "$6.87",
+        "precio_psa_10": "$41.50",
+        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_10.png"
+      }
+    ]
+  }
+}
