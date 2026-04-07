@@ -531,64 +531,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Ice Rider Calyrex VMAX #85",
-        "precio": "$110.01",
-        "precio_psa_10": "$372.78",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_1.png"
+        "nombre": "#1 Charizard EX #201",
+        "precio": "$359.09",
+        "precio_psa_10": "$661.69",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_1.png"
       },
       {
-        "nombre": "#2 Galarian Rapidash V #75",
-        "precio": "$39.35",
-        "precio_psa_10": "$75.50",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_2.png"
+        "nombre": "#2 Gengar [Master Ball] #94",
+        "precio": "$272.52",
+        "precio_psa_10": "$862.74",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_2.png"
       },
       {
-        "nombre": "#3 Tornadus V #79",
-        "precio": "$29.99",
-        "precio_psa_10": "$55.81",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_3.png"
+        "nombre": "#3 Pikachu [Master Ball] #25",
+        "precio": "$195.88",
+        "precio_psa_10": "$578.30",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_3.png"
       },
       {
-        "nombre": "#4 Water Energy #95",
-        "precio": "$28.21",
-        "precio_psa_10": "$80.52",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_4.png"
+        "nombre": "#4 Mew EX #205",
+        "precio": "$153.04",
+        "precio_psa_10": "$315.90",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_4.png"
       },
       {
-        "nombre": "#5 Ice Rider Calyrex V #73",
-        "precio": "$26.09",
-        "precio_psa_10": "$46.00",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_5.png"
+        "nombre": "#5 Blastoise EX #202",
+        "precio": "$129.99",
+        "precio_psa_10": "$222.61",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_5.png"
       },
       {
-        "nombre": "#6 Flannery #80",
-        "precio": "$16.20",
-        "precio_psa_10": "$50.00",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_6.png"
+        "nombre": "#6 Venusaur EX #200",
+        "precio": "$93.82",
+        "precio_psa_10": "$189.00",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_6.png"
       },
       {
-        "nombre": "#7 Ice Rider Calyrex VMAX #84",
-        "precio": "$10.72",
-        "precio_psa_10": "$27.18",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_7.png"
+        "nombre": "#7 Zapdos EX #204",
+        "precio": "$89.36",
+        "precio_psa_10": "$210.44",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_7.png"
       },
       {
-        "nombre": "#8 Melony #83",
-        "precio": "$8.99",
-        "precio_psa_10": "$28.25",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_8.png"
+        "nombre": "#8 Dragonite [Master Ball] #149",
+        "precio": "$66.52",
+        "precio_psa_10": "$150.12",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_8.png"
       },
       {
-        "nombre": "#9 Melony #91",
-        "precio": "$8.91",
-        "precio_psa_10": "$30.25",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_9.png"
+        "nombre": "#9 Haunter [Master Ball] #93",
+        "precio": "$60.50",
+        "precio_psa_10": "$146.25",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_9.png"
       },
       {
-        "nombre": "#10 Flannery #88",
-        "precio": "$8.66",
-        "precio_psa_10": "$28.25",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_10.png"
+        "nombre": "#10 Psyduck [Master Ball] #54",
+        "precio": "$60.18",
+        "precio_psa_10": "$120.48",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_10.png"
       }
     ]
   },

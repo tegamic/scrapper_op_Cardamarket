@@ -198,64 +198,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Team Rocket's Mewtwo ex #125",
-        "precio": "$274.37",
-        "precio_psa_10": "$490.00",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_1.png"
+        "nombre": "#1 Mega Greninja Ex #120",
+        "precio": "$501.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_1.png"
       },
       {
-        "nombre": "#2 Team Rocket's Moltres ex #124",
-        "precio": "$97.63",
-        "precio_psa_10": "$158.75",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_2.png"
+        "nombre": "#2 Mega Greninja Ex #144",
+        "precio": "$316.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_2.png"
       },
       {
-        "nombre": "#3 Team Rocket's Nidoking ex #126",
-        "precio": "$62.66",
-        "precio_psa_10": "$100.98",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_3.png"
+        "nombre": "#3 Cinccino Ex #117",
+        "precio": "$40.12",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_3.png"
       },
       {
-        "nombre": "#4 Team Rocket's Crobat ex #127",
-        "precio": "$45.00",
-        "precio_psa_10": "$80.50",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_4.png"
+        "nombre": "#4 Mega Floette Ex #115",
+        "precio": "$28.63",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_4.png"
       },
       {
-        "nombre": "#5 Team Rocket's Mewtwo ex #130",
-        "precio": "$41.49",
-        "precio_psa_10": "$76.22",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_5.png"
+        "nombre": "#5 Mega Greninja Ex #98",
+        "precio": "$27.16",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_5.png"
       },
       {
-        "nombre": "#6 Team Rocket's Giovanni #129",
-        "precio": "$19.99",
-        "precio_psa_10": "$80.00",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_6.png"
+        "nombre": "#6 Mega Dragalge Ex #116",
+        "precio": "$25.32",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_6.png"
       },
       {
-        "nombre": "#7 Team Rocket's Ariana #128",
-        "precio": "$19.27",
-        "precio_psa_10": "$92.50",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_7.png"
+        "nombre": "#7 Roxie's Performance #119",
+        "precio": "$24.99",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_7.png"
       },
       {
-        "nombre": "#8 Team Rocket's Mewtwo ex #114",
-        "precio": "$18.99",
-        "precio_psa_10": "$68.00",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_8.png"
+        "nombre": "#8 AZ's Tranquility #118",
+        "precio": "$17.92",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_8.png"
       },
       {
-        "nombre": "#9 Team Rocket's Crobat ex #131",
-        "precio": "$17.42",
-        "precio_psa_10": "$41.75",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_9.png"
+        "nombre": "#9 Froakie #86",
+        "precio": "$11.73",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_9.png"
       },
       {
-        "nombre": "#10 Jamming Tower #132",
-        "precio": "$12.72",
-        "precio_psa_10": "$30.00",
-        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_10.png"
+        "nombre": "#10 Emma #111",
+        "precio": "$10.49",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_10.png"
       }
     ]
   },
@@ -460,60 +460,60 @@
       {
         "nombre": "#1 Buggy [SP Gold] OP09-051",
         "precio": "$650.00",
-        "precio_psa_10": "$1,540.14",
+        "precio_psa_10": "$1,449.95",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_1.png"
       },
       {
         "nombre": "#2 Dracule Mihawk [Manga] OP14-119",
         "precio": "$464.07",
-        "precio_psa_10": "$630.00",
+        "precio_psa_10": "$625.38",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_2.png"
       },
       {
         "nombre": "#3 Buggy [SP Silver] OP09-051",
-        "precio": "$370.00",
+        "precio": "$399.69",
         "precio_psa_10": "$1,647.48",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_3.png"
       },
       {
         "nombre": "#4 Boa Hancock [SP] OP14-112",
         "precio": "$296.50",
-        "precio_psa_10": "$578.33",
+        "precio_psa_10": "$715.00",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_4.png"
       },
       {
         "nombre": "#5 You'll Frighten Me [Alternate Art] OP14-118",
-        "precio": "$180.00",
-        "precio_psa_10": "$534.97",
+        "precio": "$165.79",
+        "precio_psa_10": "$339.99",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_5.png"
       },
       {
         "nombre": "#6 Boa Hancock [Alternate Art] OP14-041",
-        "precio": "$85.24",
+        "precio": "$90.47",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_6.png"
       },
       {
-        "nombre": "#7 Ground Death [Alternate Art] OP14-096",
-        "precio": "$85.00",
-        "precio_psa_10": "$399.40",
+        "nombre": "#7 Dracule Mihawk [SP] OP12-030",
+        "precio": "$87.69",
+        "precio_psa_10": "$330.69",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_7.png"
       },
       {
-        "nombre": "#8 Dracule Mihawk [SP] OP12-030",
-        "precio": "$82.90",
-        "precio_psa_10": "$395.00",
+        "nombre": "#8 Ground Death [Alternate Art] OP14-096",
+        "precio": "$83.99",
+        "precio_psa_10": "$384.70",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_8.png"
       },
       {
         "nombre": "#9 Perona [SP] OP06-093",
-        "precio": "$79.79",
+        "precio": "$82.36",
         "precio_psa_10": "$354.40",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_9.png"
       },
       {
         "nombre": "#10 Sugar [SP] OP10-065",
-        "precio": "$61.37",
+        "precio": "$65.81",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_10.png"
       }
@@ -524,49 +524,49 @@
     "cartas": [
       {
         "nombre": "#1 Trafalgar Law [Manga Alternate Art] OP10-119",
-        "precio": "$378.80",
+        "precio": "$392.50",
         "precio_psa_10": "$1,056.00",
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_1.png"
       },
       {
-        "nombre": "#2 Sugar OP10-003",
-        "precio": "$37.21",
-        "precio_psa_10": "$7.50",
+        "nombre": "#2 Divine Departure [Alternate Art] OP10-019",
+        "precio": "$37.28",
+        "precio_psa_10": "$89.10",
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_2.png"
       },
       {
-        "nombre": "#3 Divine Departure [Alternate Art] OP10-019",
-        "precio": "$35.00",
-        "precio_psa_10": "$92.29",
+        "nombre": "#3 Sugar OP10-003",
+        "precio": "$36.25",
+        "precio_psa_10": "$31.25",
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_3.png"
       },
       {
         "nombre": "#4 Monkey.D.Luffy [Alternate Art] OP10-118",
-        "precio": "$23.49",
-        "precio_psa_10": "$99.46",
+        "precio": "$25.99",
+        "precio_psa_10": "$102.51",
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_4.png"
       },
       {
-        "nombre": "#5 Usopp OP10-042",
-        "precio": "$22.91",
-        "precio_psa_10": "$29.00",
+        "nombre": "#5 Usopp [Playmat Limited Edition] OP10-042",
+        "precio": "$22.70",
+        "precio_psa_10": "$94.29",
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_5.png"
       },
       {
-        "nombre": "#6 Usopp [Playmat Limited Edition] OP10-042",
-        "precio": "$22.69",
-        "precio_psa_10": "$94.58",
+        "nombre": "#6 Usopp OP10-042",
+        "precio": "$20.99",
+        "precio_psa_10": "$29.00",
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_6.png"
       },
       {
         "nombre": "#7 Trafalgar Law [Alternate Art] OP10-119",
-        "precio": "$17.12",
-        "precio_psa_10": "$81.33",
+        "precio": "$16.99",
+        "precio_psa_10": "$127.97",
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_7.png"
       },
       {
         "nombre": "#8 Usopp [Alternate Art] OP10-042",
-        "precio": "$12.13",
+        "precio": "$13.96",
         "precio_psa_10": "$84.00",
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_8.png"
       },
@@ -577,9 +577,9 @@
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_9.png"
       },
       {
-        "nombre": "#10 Tashigi [Alternate Art] OP10-032",
-        "precio": "$10.50",
-        "precio_psa_10": "$23.52",
+        "nombre": "#10 Cavendish [Alternate Art] OP10-045",
+        "precio": "$11.58",
+        "precio_psa_10": "$30.02",
         "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_10.png"
       }
     ]
@@ -588,64 +588,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Mega Gengar ex #240",
-        "precio": "$319.99",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_1.png"
+        "nombre": "#1 Trafalgar Law [Manga Alternate Art] OP10-119",
+        "precio": "$392.50",
+        "precio_psa_10": "$1,056.00",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_1.png"
       },
       {
-        "nombre": "#2 Mega Dragonite ex #250",
-        "precio": "$206.65",
-        "precio_psa_10": "$610.00",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_2.png"
+        "nombre": "#2 Divine Departure [Alternate Art] OP10-019",
+        "precio": "$37.28",
+        "precio_psa_10": "$89.10",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_2.png"
       },
       {
-        "nombre": "#3 Mega Dragonite ex #246",
-        "precio": "$185.37",
-        "precio_psa_10": "$418.05",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_3.png"
+        "nombre": "#3 Sugar OP10-003",
+        "precio": "$36.25",
+        "precio_psa_10": "$31.25",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_3.png"
       },
       {
-        "nombre": "#4 Pikachu ex #234",
-        "precio": "$181.00",
-        "precio_psa_10": "$541.82",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_4.png"
+        "nombre": "#4 Monkey.D.Luffy [Alternate Art] OP10-118",
+        "precio": "$25.99",
+        "precio_psa_10": "$102.51",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_4.png"
       },
       {
-        "nombre": "#5 Team Rocket's Mewtwo ex #237",
-        "precio": "$107.37",
-        "precio_psa_10": "$290.00",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_5.png"
+        "nombre": "#5 Usopp [Playmat Limited Edition] OP10-042",
+        "precio": "$22.70",
+        "precio_psa_10": "$94.29",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_5.png"
       },
       {
-        "nombre": "#6 N's Zoroark ex #242",
-        "precio": "$65.24",
-        "precio_psa_10": "$169.50",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_6.png"
+        "nombre": "#6 Usopp OP10-042",
+        "precio": "$20.99",
+        "precio_psa_10": "$29.00",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_6.png"
       },
       {
-        "nombre": "#7 Iono's Bellibolt ex #236",
-        "precio": "$48.10",
-        "precio_psa_10": "$145.00",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_7.png"
+        "nombre": "#7 Trafalgar Law [Alternate Art] OP10-119",
+        "precio": "$16.99",
+        "precio_psa_10": "$127.97",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_7.png"
       },
       {
-        "nombre": "#8 Canari #248",
-        "precio": "$39.94",
-        "precio_psa_10": "$205.01",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_8.png"
+        "nombre": "#8 Usopp [Alternate Art] OP10-042",
+        "precio": "$13.96",
+        "precio_psa_10": "$84.00",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_8.png"
       },
       {
-        "nombre": "#9 Mega Charizard X ex #223",
-        "precio": "$37.55",
-        "precio_psa_10": "$162.78",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_9.png"
+        "nombre": "#9 Trafalgar Law [Alternate Art] OP10-022",
+        "precio": "$12.00",
+        "precio_psa_10": "$41.00",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_9.png"
       },
       {
-        "nombre": "#10 Marnie's Grimmsnarl ex #243",
-        "precio": "$35.30",
-        "precio_psa_10": "$120.00",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_10.png"
+        "nombre": "#10 Cavendish [Alternate Art] OP10-045",
+        "precio": "$11.58",
+        "precio_psa_10": "$30.02",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_10.png"
       }
     ]
   },
@@ -783,64 +783,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Enel [Manga] OP15-118",
-        "precio": "$889.99",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_1.png"
+        "nombre": "#1 Gol.D.Roger [Manga] OP09-118",
+        "precio": "$3,160.21",
+        "precio_psa_10": "$3,868.82",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_1.png"
       },
       {
-        "nombre": "#2 Boa Hancock [SP] OP12-014",
-        "precio": "$380.50",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_2.png"
+        "nombre": "#2 Monkey.D.Luffy [Manga] OP09-119",
+        "precio": "$709.87",
+        "precio_psa_10": "$1,355.00",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_2.png"
       },
       {
-        "nombre": "#3 Monkey.D.Luffy [SP] ST26-005",
-        "precio": "$234.33",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_3.png"
+        "nombre": "#3 Shanks [Manga] OP09-004",
+        "precio": "$599.64",
+        "precio_psa_10": "$914.10",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_3.png"
       },
       {
-        "nombre": "#4 Trafalgar Law [SP] OP13-031",
-        "precio": "$177.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_4.png"
+        "nombre": "#4 Marshall.D.Teach [Manga] OP09-093",
+        "precio": "$588.48",
+        "precio_psa_10": "$979.81",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_4.png"
       },
       {
-        "nombre": "#5 Lightning Dragon [Alternate Art] OP15-077",
-        "precio": "$175.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_5.png"
+        "nombre": "#5 Buggy [Alternate Art Manga] OP09-051",
+        "precio": "$506.89",
+        "precio_psa_10": "$699.13",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_5.png"
       },
       {
-        "nombre": "#6 Gum-Gum Golden Rifle [Alternate Art] OP15-116",
-        "precio": "$165.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_6.png"
+        "nombre": "#6 Uta [Flagship Battle Winner] OP09-002",
+        "precio": "$427.00",
+        "precio_psa_10": "$436.74",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_6.png"
       },
       {
-        "nombre": "#7 Lightning Dragon OP15-077",
-        "precio": "$135.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_7.png"
+        "nombre": "#7 Monkey.D.Luffy [2nd Anniversary] OP09-061",
+        "precio": "$272.50",
+        "precio_psa_10": "$456.36",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_7.png"
       },
       {
-        "nombre": "#8 Enel [SP] EB02-052",
-        "precio": "$130.07",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_8.png"
+        "nombre": "#8 Shanks [Wanted Poster] OP09-004",
+        "precio": "$90.96",
+        "precio_psa_10": "$164.40",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_8.png"
       },
       {
-        "nombre": "#9 Edward.Newgate [SP] OP13-042",
-        "precio": "$89.99",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_9.png"
+        "nombre": "#9 Marshall.D.Teach [Wanted Poster] OP09-093",
+        "precio": "$82.32",
+        "precio_psa_10": "$104.31",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_9.png"
       },
       {
-        "nombre": "#10 Sabo [SP] P-105",
-        "precio": "$87.69",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_10.png"
+        "nombre": "#10 Buggy [Wanted Poster Foil] OP09-051",
+        "precio": "$66.30",
+        "precio_psa_10": "$153.75",
+        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_10.png"
       }
     ]
   },
@@ -1113,37 +1113,37 @@
     "cartas": [
       {
         "nombre": "#1 Enel [Manga] OP15-118",
-        "precio": "$889.99",
+        "precio": "$909.75",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_1.png"
       },
       {
         "nombre": "#2 Boa Hancock [SP] OP12-014",
-        "precio": "$380.50",
+        "precio": "$336.76",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_2.png"
       },
       {
         "nombre": "#3 Monkey.D.Luffy [SP] ST26-005",
-        "precio": "$234.33",
+        "precio": "$224.12",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_3.png"
       },
       {
-        "nombre": "#4 Trafalgar Law [SP] OP13-031",
-        "precio": "$177.00",
+        "nombre": "#4 Gum-Gum Golden Rifle OP15-116",
+        "precio": "$165.00",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_4.png"
       },
       {
         "nombre": "#5 Lightning Dragon [Alternate Art] OP15-077",
-        "precio": "$175.00",
+        "precio": "$150.00",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_5.png"
       },
       {
-        "nombre": "#6 Gum-Gum Golden Rifle [Alternate Art] OP15-116",
-        "precio": "$165.00",
+        "nombre": "#6 Trafalgar Law [SP] OP13-031",
+        "precio": "$147.00",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_6.png"
       },
@@ -1154,20 +1154,20 @@
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_7.png"
       },
       {
-        "nombre": "#8 Enel [SP] EB02-052",
-        "precio": "$130.07",
+        "nombre": "#8 Gum-Gum Golden Rifle [Alternate Art] OP15-116",
+        "precio": "$130.00",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_8.png"
       },
       {
-        "nombre": "#9 Edward.Newgate [SP] OP13-042",
-        "precio": "$89.99",
+        "nombre": "#9 Enel [SP] EB02-052",
+        "precio": "$128.33",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_9.png"
       },
       {
-        "nombre": "#10 Sabo [SP] P-105",
-        "precio": "$87.69",
+        "nombre": "#10 Edward.Newgate [SP] OP13-042",
+        "precio": "$89.99",
         "precio_psa_10": "",
         "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_10.png"
       }
@@ -1242,64 +1242,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Monkey.D.Luffy [SP Gold] OP05-119",
-        "precio": "$1,786.28",
-        "precio_psa_10": "$5,875.78",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_1.png"
+        "nombre": "#1 Son Goku [Super Alternate Art] FB01-139",
+        "precio": "$561.38",
+        "precio_psa_10": "$2,600.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_1.png"
       },
       {
-        "nombre": "#2 Monkey.D.Luffy [SP Silver] OP05-119",
-        "precio": "$908.48",
-        "precio_psa_10": "$1,744.86",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_2.png"
+        "nombre": "#2 Son Gohan: Childhood [Alternate Art] FB01-140",
+        "precio": "$203.75",
+        "precio_psa_10": "$237.47",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_2.png"
       },
       {
-        "nombre": "#3 Monkey.D.Luffy [Manga] OP11-118",
-        "precio": "$649.94",
-        "precio_psa_10": "$797.00",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_3.png"
+        "nombre": "#3 Son Goku [Alternate Art] FB01-139",
+        "precio": "$114.49",
+        "precio_psa_10": "$162.28",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_3.png"
       },
       {
-        "nombre": "#4 Koby [Flagship Battle] OP11-119",
-        "precio": "$147.59",
-        "precio_psa_10": "$288.61",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_4.png"
+        "nombre": "#4 Goku Black [Alternate Art] FB01-035",
+        "precio": "$72.99",
+        "precio_psa_10": "$101.28",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_4.png"
       },
       {
-        "nombre": "#5 Gear Two [Alternate Art] OP11-080",
-        "precio": "$136.81",
-        "precio_psa_10": "$321.43",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_5.png"
+        "nombre": "#5 Son Gohan: Childhood [Alternate Art Holo] FB01-071",
+        "precio": "$70.00",
+        "precio_psa_10": "$120.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_5.png"
       },
       {
-        "nombre": "#6 Luffy-Tarou [SP] ST18-005",
-        "precio": "$134.87",
-        "precio_psa_10": "$289.99",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_6.png"
+        "nombre": "#6 Trunks: Future [Alternate Art] FB01-036",
+        "precio": "$55.00",
+        "precio_psa_10": "$77.84",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_6.png"
       },
       {
-        "nombre": "#7 Stussy [SP] OP07-085",
-        "precio": "$95.92",
-        "precio_psa_10": "$228.61",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_7.png"
+        "nombre": "#7 Son Goku [Alternate Art] FB01-001",
+        "precio": "$50.43",
+        "precio_psa_10": "$73.85",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_7.png"
       },
       {
-        "nombre": "#8 Zeus [Bandai Alternate Art] OP11-106",
-        "precio": "$86.00",
+        "nombre": "#8 Cooler [Alternate Art] FB01-105",
+        "precio": "$32.98",
+        "precio_psa_10": "$30.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_8.png"
+      },
+      {
+        "nombre": "#9 Android 17 [Alternate Art Holo] FB01-070",
+        "precio": "$29.92",
         "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_8.png"
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_9.png"
       },
       {
-        "nombre": "#9 Shanks [SP Alternate Art] ST16-004",
-        "precio": "$84.15",
-        "precio_psa_10": "$111.41",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_9.png"
-      },
-      {
-        "nombre": "#10 Sanji [SP] OP06-119",
-        "precio": "$78.79",
-        "precio_psa_10": "$206.10",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_10.png"
+        "nombre": "#10 Trunks : Future [Dokkan Battle Alternate Art] FB01-049",
+        "precio": "$27.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_10.png"
       }
     ]
   },
@@ -1370,7 +1370,68 @@
   },
   "A45": {
     "coleccion": "",
-    "cartas": []
+    "cartas": [
+      {
+        "nombre": "#1 Son Goku [Super Alternate Art] FB05-119",
+        "precio": "$545.42",
+        "precio_psa_10": "$5,154.64",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_1.png"
+      },
+      {
+        "nombre": "#2 Son Goku [Super Alternate Art] SB01-023",
+        "precio": "$369.55",
+        "precio_psa_10": "$80.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_2.png"
+      },
+      {
+        "nombre": "#3 Son Goku [Alternate Art] FB05-119",
+        "precio": "$268.33",
+        "precio_psa_10": "$813.57",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_3.png"
+      },
+      {
+        "nombre": "#4 Son Goku: Childhood [Alternate Art] SB01-053",
+        "precio": "$226.22",
+        "precio_psa_10": "$422.50",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_4.png"
+      },
+      {
+        "nombre": "#5 Chi-Chi [Alternate Art] SB01-019",
+        "precio": "$201.25",
+        "precio_psa_10": "$644.59",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_5.png"
+      },
+      {
+        "nombre": "#6 Majin Buu: Evil [Alternate Art] SB01-036",
+        "precio": "$170.35",
+        "precio_psa_10": "$639.50",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_6.png"
+      },
+      {
+        "nombre": "#7 Son Goku [Alternate Art] SB01-023",
+        "precio": "$148.99",
+        "precio_psa_10": "$486.14",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_7.png"
+      },
+      {
+        "nombre": "#8 Son Goku: Childhood [Gold Holo] FB06-025",
+        "precio": "$142.99",
+        "precio_psa_10": "$275.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_8.png"
+      },
+      {
+        "nombre": "#9 Bulma [Gold Holo] SB01-045",
+        "precio": "$139.72",
+        "precio_psa_10": "$127.50",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_9.png"
+      },
+      {
+        "nombre": "#10 Cell [Gold Holo] SB01-001",
+        "precio": "$128.48",
+        "precio_psa_10": "$200.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_10.png"
+      }
+    ]
   },
   "A46": {
     "coleccion": "",

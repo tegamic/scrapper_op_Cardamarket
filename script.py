@@ -101,14 +101,30 @@ URL = "https://www.pricecharting.com/console/one-piece-japanese-adventure-on-kam
 #one-piece-japanese-extra-booster-heroines-edition
 #URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-heroines-edition?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 #pokemon-ascended-heroes
-URL = "https://www.pricecharting.com/console/pokemon-ascended-heroes?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#URL = "https://www.pricecharting.com/console/pokemon-ascended-heroes?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##FB01
+#URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-awakened-pulse?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##151
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-scarlet-&-violet-151?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##NinjaSpinner
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-ninja-spinner?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##azure-sea%27s-seven
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-azure-sea%27s-seven?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##one-piece-japanese-royal-blood
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-royal-blood?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##one-piece-japanese-emperors-in-the-new-world
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-emperors-in-the-new-world?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#SB-01
+#URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-manga-booster-01?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#one-piece-japanese-carrying-on-his-will
+URL = "https://www.pricecharting.com/console/one-piece-japanese-carrying-on-his-will?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 
 
 def obtener_codigo_coleccion_desde_url(url: str) -> str:
     ruta = urlparse(url).path.rstrip("/")
     return ruta.split("/")[-1]
 
-SELECCION = "A66"
+SELECCION = "A25"
 COLECCION = ""
 CODIGO_COLECCION = obtener_codigo_coleccion_desde_url(URL)
 
