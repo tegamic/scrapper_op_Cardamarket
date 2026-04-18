@@ -466,64 +466,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Mega Charizard X Ex #116",
-        "precio": "$575.33",
-        "precio_psa_10": "$2,239.02",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_1.png"
+        "nombre": "#1 Charizard ex #134",
+        "precio": "$152.50",
+        "precio_psa_10": "$535.30",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_1.png"
       },
       {
-        "nombre": "#2 Mega Charizard X Ex #110",
-        "precio": "$550.37",
-        "precio_psa_10": "$1,052.78",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_2.png"
+        "nombre": "#2 Charizard ex #139",
+        "precio": "$46.63",
+        "precio_psa_10": "$210.00",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_2.png"
       },
       {
-        "nombre": "#3 Oricorio Ex #111",
-        "precio": "$37.42",
-        "precio_psa_10": "$99.94",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_3.png"
+        "nombre": "#3 Pidgeot ex #136",
+        "precio": "$22.67",
+        "precio_psa_10": "$59.99",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_3.png"
       },
       {
-        "nombre": "#4 Mega Charizard X Ex #94",
-        "precio": "$29.67",
-        "precio_psa_10": "$84.75",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_4.png"
+        "nombre": "#4 Charizard ex #125",
+        "precio": "$18.99",
+        "precio_psa_10": "$94.99",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_4.png"
       },
       {
-        "nombre": "#5 Dawn #115",
-        "precio": "$29.50",
-        "precio_psa_10": "$71.18",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_5.png"
+        "nombre": "#5 Fire Energy #141",
+        "precio": "$11.60",
+        "precio_psa_10": "$37.03",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_5.png"
       },
       {
-        "nombre": "#6 Mega Sharpedo Ex #113",
-        "precio": "$12.07",
-        "precio_psa_10": "$40.50",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_6.png"
+        "nombre": "#6 Cleffa #113",
+        "precio": "$11.48",
+        "precio_psa_10": "$74.47",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_6.png"
       },
       {
-        "nombre": "#7 Mega Lopunny Ex #114",
-        "precio": "$11.55",
-        "precio_psa_10": "$40.00",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_7.png"
+        "nombre": "#7 Ninetales #110",
+        "precio": "$11.42",
+        "precio_psa_10": "$64.99",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_7.png"
       },
       {
-        "nombre": "#8 Dawn #106",
-        "precio": "$10.24",
-        "precio_psa_10": "$54.70",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_8.png"
+        "nombre": "#8 Artazon #140",
+        "precio": "$10.51",
+        "precio_psa_10": "$27.40",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_8.png"
       },
       {
-        "nombre": "#9 Rotom Ex #112",
-        "precio": "$10.00",
-        "precio_psa_10": "$39.15",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_9.png"
+        "nombre": "#9 Poppy #138",
+        "precio": "$10.48",
+        "precio_psa_10": "$32.50",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_9.png"
       },
       {
-        "nombre": "#10 Piplup #85",
-        "precio": "$6.87",
-        "precio_psa_10": "$41.50",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_10.png"
+        "nombre": "#10 Geeta #137",
+        "precio": "$9.13",
+        "precio_psa_10": "$33.25",
+        "imagen": "images/cartas/pokemon-japanese-ruler-of-the-black-flame/pokemon-japanese-ruler-of-the-black-flame_10.png"
       }
     ]
   },
@@ -596,64 +596,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Raging Bolt ex #95",
-        "precio": "$42.94",
-        "precio_psa_10": "$79.00",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_1.png"
+        "nombre": "#1 Morty's Confidence #97",
+        "precio": "$46.36",
+        "precio_psa_10": "$114.43",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_1.png"
       },
       {
-        "nombre": "#2 Morty's Confidence #97",
-        "precio": "$41.50",
-        "precio_psa_10": "$115.90",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_2.png"
+        "nombre": "#2 Raging Bolt ex #95",
+        "precio": "$44.40",
+        "precio_psa_10": "$79.58",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_2.png"
       },
       {
         "nombre": "#3 Walking Wake ex #94",
-        "precio": "$30.00",
-        "precio_psa_10": "$64.00",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_3.png"
+        "precio": "$29.76",
+        "precio_psa_10": "$64.35",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_3.png"
       },
       {
         "nombre": "#4 Gengar ex #88",
-        "precio": "$25.34",
-        "precio_psa_10": "$106.50",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_4.png"
+        "precio": "$28.62",
+        "precio_psa_10": "$140.23",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_4.png"
       },
       {
         "nombre": "#5 Gouging Fire ex #93",
-        "precio": "$24.55",
+        "precio": "$24.45",
         "precio_psa_10": "$51.00",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_5.png"
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_5.png"
       },
       {
         "nombre": "#6 Gastly #80",
-        "precio": "$22.20",
-        "precio_psa_10": "$63.81",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_6.png"
+        "precio": "$21.30",
+        "precio_psa_10": "$70.50",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_6.png"
       },
       {
-        "nombre": "#7 Eri #96",
-        "precio": "$17.25",
-        "precio_psa_10": "$44.55",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_7.png"
+        "nombre": "#7 Raging Bolt ex #100",
+        "precio": "$15.76",
+        "precio_psa_10": "$45.90",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_7.png"
       },
       {
-        "nombre": "#8 Raging Bolt ex #100",
-        "precio": "$14.30",
-        "precio_psa_10": "$43.83",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_8.png"
+        "nombre": "#8 Eri #96",
+        "precio": "$14.10",
+        "precio_psa_10": "$47.03",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_8.png"
       },
       {
         "nombre": "#9 Gouging Fire ex #98",
-        "precio": "$11.12",
-        "precio_psa_10": "$45.46",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_9.png"
+        "precio": "$9.00",
+        "precio_psa_10": "$29.08",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_9.png"
       },
       {
-        "nombre": "#10 Wiglett #21",
-        "precio": "$8.81",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/wild-force-pricecharting/wild-force-pricecharting_10.png"
+        "nombre": "#10 Walking Wake ex #99",
+        "precio": "$8.28",
+        "precio_psa_10": "$40.25",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_10.png"
       }
     ]
   },
@@ -1709,64 +1709,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Miriam #105",
-        "precio": "$95.00",
-        "precio_psa_10": "$240.73",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_1.png"
+        "nombre": "#1 Latias EX #87",
+        "precio": "$128.51",
+        "precio_psa_10": "$189.95",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_1.png"
       },
       {
-        "nombre": "#2 Miraidon EX #102",
-        "precio": "$39.99",
-        "precio_psa_10": "$64.91",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_2.png"
+        "nombre": "#2 Lisia's Appeal #91",
+        "precio": "$72.50",
+        "precio_psa_10": "$238.59",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_2.png"
       },
       {
-        "nombre": "#3 Miriam #100",
-        "precio": "$18.32",
-        "precio_psa_10": "$48.25",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_3.png"
+        "nombre": "#3 Alolan Exeggutor ex #89",
+        "precio": "$21.72",
+        "precio_psa_10": "$56.00",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_3.png"
       },
       {
-        "nombre": "#4 Lightning Energy #108",
-        "precio": "$15.16",
-        "precio_psa_10": "$19.24",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_4.png"
+        "nombre": "#4 Latios #70",
+        "precio": "$10.29",
+        "precio_psa_10": "$50.65",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_4.png"
       },
       {
-        "nombre": "#5 Miraidon EX #106",
-        "precio": "$12.55",
-        "precio_psa_10": "$47.00",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_5.png"
+        "nombre": "#5 Lisia's Appeal #86",
+        "precio": "$10.00",
+        "precio_psa_10": "$87.51",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_5.png"
       },
       {
-        "nombre": "#6 Drowzee #86",
-        "precio": "$10.89",
-        "precio_psa_10": "$59.99",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_6.png"
+        "nombre": "#6 Alolan Exeggutor ex #92",
+        "precio": "$8.42",
+        "precio_psa_10": "$37.50",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_6.png"
       },
       {
-        "nombre": "#7 Spidops EX #101",
-        "precio": "$10.81",
-        "precio_psa_10": "$37.92",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_7.png"
+        "nombre": "#7 Archaludon ex #88",
+        "precio": "$8.25",
+        "precio_psa_10": "$34.50",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_7.png"
       },
       {
-        "nombre": "#8 Rare Candy #107",
-        "precio": "$9.99",
-        "precio_psa_10": "$41.98",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_8.png"
+        "nombre": "#8 Drayton #90",
+        "precio": "$7.69",
+        "precio_psa_10": "$33.00",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_8.png"
       },
       {
-        "nombre": "#9 Slowpoke #82",
-        "precio": "$9.78",
-        "precio_psa_10": "$51.00",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_9.png"
+        "nombre": "#9 Jet Energy #94",
+        "precio": "$6.76",
+        "precio_psa_10": "$22.50",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_9.png"
       },
       {
-        "nombre": "#10 Arven #104",
-        "precio": "$9.51",
-        "precio_psa_10": "$28.09",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_10.png"
+        "nombre": "#10 Latias EX #78",
+        "precio": "$5.45",
+        "precio_psa_10": "$37.62",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_10.png"
       }
     ]
   },

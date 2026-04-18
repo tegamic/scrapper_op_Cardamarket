@@ -117,14 +117,25 @@ URL = "https://www.pricecharting.com/console/one-piece-japanese-adventure-on-kam
 #SB-01
 #URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-manga-booster-01?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 #one-piece-japanese-carrying-on-his-will
-URL = "https://www.pricecharting.com/console/one-piece-japanese-carrying-on-his-will?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-carrying-on-his-will?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#paradisedragona
+#URL = 'https://www.pricecharting.com/console/pokemon-japanese-paradise-dragona?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection='
+#EB-01
+URL= "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-memorial-collection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#EB-02
+URL = 'https://www.pricecharting.com/console/one-piece-japanese-extra-booster-anime-25th-collection'
+#WildForce
+URL = "https://www.pricecharting.com/console/pokemon-japanese-wild-force?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#BlackFlame
+URL = "https://www.pricecharting.com/console/pokemon-japanese-ruler-of-the-black-flame?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#fb03
+URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-raging-roar?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 
 def obtener_codigo_coleccion_desde_url(url: str) -> str:
     ruta = urlparse(url).path.rstrip("/")
     return ruta.split("/")[-1]
 
-SELECCION = "A25"
+SELECCION = "A22"
 COLECCION = ""
 CODIGO_COLECCION = obtener_codigo_coleccion_desde_url(URL)
 
