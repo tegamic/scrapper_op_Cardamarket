@@ -130,12 +130,18 @@ URL = "https://www.pricecharting.com/console/pokemon-japanese-wild-force?sort=hi
 URL = "https://www.pricecharting.com/console/pokemon-japanese-ruler-of-the-black-flame?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 #fb03
 URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-raging-roar?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#fb-05
+URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-new-adventure?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#ninja-Spinner
+URL= "https://www.pricecharting.com/console/pokemon-japanese-ninja-spinner?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+
+
 
 def obtener_codigo_coleccion_desde_url(url: str) -> str:
     ruta = urlparse(url).path.rstrip("/")
     return ruta.split("/")[-1]
 
-SELECCION = "A22"
+SELECCION = "A15"
 COLECCION = ""
 CODIGO_COLECCION = obtener_codigo_coleccion_desde_url(URL)
 
