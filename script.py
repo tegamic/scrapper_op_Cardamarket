@@ -20,128 +20,133 @@ from urllib.parse import urlparse
 
 #BlackFlame
 URL = "https://www.pricecharting.com/console/pokemon-japanese-ruler-of-the-black-flame?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#WildForce
-URL = "https://www.pricecharting.com/console/pokemon-japanese-wild-force?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#SilverLance
-URL = "https://www.pricecharting.com/console/pokemon-japanese-silver-lance?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#InfernoX
-URL = "https://www.pricecharting.com/console/pokemon-japanese-inferno-x?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#MegaBrave
-URL = "https://www.pricecharting.com/console/pokemon-japanese-mega-brave?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#Blue Sky Stream
-URL = "https://www.pricecharting.com/console/pokemon-japanese-blue-sky-stream?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#Eevee Heroes
-URL = "https://www.pricecharting.com/console/pokemon-japanese-eevee-heroes?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#RagingSurf
-URL = "https://www.pricecharting.com/console/pokemon-japanese-raging-surf?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#CyberJudge
-URL = "https://www.pricecharting.com/console/pokemon-japanese-cyber-judge?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#WhiteFlare
-URL = "https://www.pricecharting.com/console/pokemon-japanese-white-flare?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#StellarMiracle
-URL = "https://www.pricecharting.com/console/pokemon-japanese-stellar-miracle?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#MatchlessFighters
-URL = "https://www.pricecharting.com/console/pokemon-japanese-matchless-fighter?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#Star-birth
-URL = "https://www.pricecharting.com/console/pokemon-japanese-star-birth?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#LostAbyss
-URL = "https://www.pricecharting.com/console/pokemon-japanese-lost-abyss?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#super-electric-breaker
-URL = "https://www.pricecharting.com/console/pokemon-japanese-super-electric-breaker?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#skyscraping-perfection
-URL = "https://www.pricecharting.com/console/pokemon-japanese-skyscraping-perfection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#glory-of-team-rocket
-URL = "https://www.pricecharting.com/console/pokemon-japanese-glory-of-team-rocket?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#glory-of-team-rocket
-URL = "https://www.pricecharting.com/console/pokemon-japanese-glory-of-team-rocket?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#terastal-festival
-URL = "https://www.pricecharting.com/console/pokemon-japanese-terastal-festival?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#NIHIL-ZERO
-URL = "https://www.pricecharting.com/console/pokemon-japanese-nihil-zero?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#Battle-Partners
-URL = "https://www.pricecharting.com/console/pokemon-japanese-battle-partners?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#heat-wave-arena
-URL = "https://www.pricecharting.com/console/pokemon-japanese-heat-wave-arena?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#black-bolt
-URL = "https://www.pricecharting.com/console/pokemon-japanese-black-bolt?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#mega-dream
-URL = "https://www.pricecharting.com/console/pokemon-japanese-mega-dream-ex?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#violet-ex
-URL = "https://www.pricecharting.com/console/pokemon-japanese-violet-ex?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#triplet-beat
-URL = "https://www.pricecharting.com/console/pokemon-japanese-triplet-beat?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#shiny-star-v
-URL = "https://www.pricecharting.com/console/pokemon-japanese-shiny-star-v?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#shiny-treasure-ex
-URL = "https://www.pricecharting.com/console/pokemon-japanese-shiny-treasure-ex?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#OP-07
-URL = "https://www.pricecharting.com/console/one-piece-japanese-500-years-in-the-future?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#legacy-of-the-master
-URL = "https://www.pricecharting.com/console/one-piece-japanese-legacy-of-the-master?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#extra-booster-egghead-crisis
-URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-egghead-crisis?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#azure-sea%27s-seven
-URL = "https://www.pricecharting.com/console/one-piece-japanese-azure-sea%27s-seven?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#one-piece-japanese-royal-blood
-URL = "https://www.pricecharting.com/console/one-piece-japanese-royal-blood?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#one-piece-japanese-carrying-on-his-will
-#URL = "https://www.pricecharting.com/console/one-piece-japanese-carrying-on-his-will?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#one-piece-japanese-adventure-on-kami%27s-island
-URL = "https://www.pricecharting.com/console/one-piece-japanese-adventure-on-kami%27s-island?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#one-piece-japanese-emperors-in-the-new-world
-#URL = "https://www.pricecharting.com/console/one-piece-japanese-emperors-in-the-new-world?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#one-piece-japanese-awakening-of-the-new-era
-#URL = "https://www.pricecharting.com/console/one-piece-japanese-awakening-of-the-new-era?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#one-piece-japanese-fist-of-divine-speed
-#URL = "https://www.pricecharting.com/console/one-piece-japanese-fist-of-divine-speed?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#one-piece-japanese-extra-booster-anime-25th-collection
-#URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-anime-25th-collection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#pokemon-japanese-vstar-universe
-#URL = "https://www.pricecharting.com/console/pokemon-japanese-vstar-universe?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#one-piece-japanese-extra-booster-heroines-edition
-#URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-heroines-edition?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#pokemon-ascended-heroes
-#URL = "https://www.pricecharting.com/console/pokemon-ascended-heroes?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-##FB01
-#URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-awakened-pulse?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-##151
-#URL = "https://www.pricecharting.com/console/pokemon-japanese-scarlet-&-violet-151?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-##NinjaSpinner
-#URL = "https://www.pricecharting.com/console/pokemon-japanese-ninja-spinner?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##WildForce
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-wild-force?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##SilverLance
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-silver-lance?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##InfernoX
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-inferno-x?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##MegaBrave
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-mega-brave?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##Blue Sky Stream
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-blue-sky-stream?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##Eevee Heroes
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-eevee-heroes?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##RagingSurf
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-raging-surf?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##CyberJudge
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-cyber-judge?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##WhiteFlare
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-white-flare?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##StellarMiracle
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-stellar-miracle?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##MatchlessFighters
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-matchless-fighter?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##Star-birth
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-star-birth?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##LostAbyss
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-lost-abyss?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##super-electric-breaker
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-super-electric-breaker?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##skyscraping-perfection
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-skyscraping-perfection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##glory-of-team-rocket
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-glory-of-team-rocket?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##glory-of-team-rocket
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-glory-of-team-rocket?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##terastal-festival
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-terastal-festival?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##NIHIL-ZERO
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-nihil-zero?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##Battle-Partners
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-battle-partners?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##heat-wave-arena
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-heat-wave-arena?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##black-bolt
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-black-bolt?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##mega-dream
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-mega-dream-ex?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##violet-ex
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-violet-ex?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##triplet-beat
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-triplet-beat?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##shiny-star-v
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-shiny-star-v?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##shiny-treasure-ex
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-shiny-treasure-ex?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##OP-07
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-500-years-in-the-future?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##legacy-of-the-master
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-legacy-of-the-master?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##extra-booster-egghead-crisis
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-egghead-crisis?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 ##azure-sea%27s-seven
 #URL = "https://www.pricecharting.com/console/one-piece-japanese-azure-sea%27s-seven?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 ##one-piece-japanese-royal-blood
 #URL = "https://www.pricecharting.com/console/one-piece-japanese-royal-blood?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##one-piece-japanese-carrying-on-his-will
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-carrying-on-his-will?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##one-piece-japanese-adventure-on-kami%27s-island
+#URL = "https://www.pricecharting.com/console/one-piece-japanese-adventure-on-kami%27s-island?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 ##one-piece-japanese-emperors-in-the-new-world
-#URL = "https://www.pricecharting.com/console/one-piece-japanese-emperors-in-the-new-world?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#SB-01
-#URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-manga-booster-01?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#one-piece-japanese-carrying-on-his-will
-#URL = "https://www.pricecharting.com/console/one-piece-japanese-carrying-on-his-will?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#paradisedragona
-#URL = 'https://www.pricecharting.com/console/pokemon-japanese-paradise-dragona?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection='
-#EB-01
-URL= "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-memorial-collection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#EB-02
-URL = 'https://www.pricecharting.com/console/one-piece-japanese-extra-booster-anime-25th-collection'
-#WildForce
-URL = "https://www.pricecharting.com/console/pokemon-japanese-wild-force?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#BlackFlame
-URL = "https://www.pricecharting.com/console/pokemon-japanese-ruler-of-the-black-flame?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#fb03
-URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-raging-roar?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#fb-05
-URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-new-adventure?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-#ninja-Spinner
-URL= "https://www.pricecharting.com/console/pokemon-japanese-ninja-spinner?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-
-
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-emperors-in-the-new-world?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##one-piece-japanese-awakening-of-the-new-era
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-awakening-of-the-new-era?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##one-piece-japanese-fist-of-divine-speed
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-fist-of-divine-speed?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##one-piece-japanese-extra-booster-anime-25th-collection
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-anime-25th-collection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##pokemon-japanese-vstar-universe
+##URL = "https://www.pricecharting.com/console/pokemon-japanese-vstar-universe?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##one-piece-japanese-extra-booster-heroines-edition
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-heroines-edition?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##pokemon-ascended-heroes
+##URL = "https://www.pricecharting.com/console/pokemon-ascended-heroes?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+###FB01
+##URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-awakened-pulse?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+###151
+##URL = "https://www.pricecharting.com/console/pokemon-japanese-scarlet-&-violet-151?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+###NinjaSpinner
+##URL = "https://www.pricecharting.com/console/pokemon-japanese-ninja-spinner?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+###azure-sea%27s-seven
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-azure-sea%27s-seven?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+###one-piece-japanese-royal-blood
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-royal-blood?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+###one-piece-japanese-emperors-in-the-new-world
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-emperors-in-the-new-world?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##SB-01
+##URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-manga-booster-01?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##one-piece-japanese-carrying-on-his-will
+##URL = "https://www.pricecharting.com/console/one-piece-japanese-carrying-on-his-will?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##paradisedragona
+##URL = 'https://www.pricecharting.com/console/pokemon-japanese-paradise-dragona?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection='
+##EB-01
+#URL= "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-memorial-collection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##EB-02
+#URL = 'https://www.pricecharting.com/console/one-piece-japanese-extra-booster-anime-25th-collection'
+##WildForce
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-wild-force?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##BlackFlame
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-ruler-of-the-black-flame?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##fb03
+#URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-raging-roar?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##fb-05
+#URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-new-adventure?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##ninja-Spinner
+#URL= "https://www.pricecharting.com/console/pokemon-japanese-ninja-spinner?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##Black-Bolt English
+#URL = "https://www.pricecharting.com/console/pokemon-black-bolt?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##White-Flare-English
+#URL = "https://www.pricecharting.com/console/pokemon-white-flare?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##sTAR BIRTH
+#URL = "https://www.pricecharting.com/console/pokemon-japanese-star-birth?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-anime-25th-collection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 
 def obtener_codigo_coleccion_desde_url(url: str) -> str:
     ruta = urlparse(url).path.rstrip("/")
     return ruta.split("/")[-1]
 
-SELECCION = "A15"
+SELECCION = "A62"
 COLECCION = ""
 CODIGO_COLECCION = obtener_codigo_coleccion_desde_url(URL)
 

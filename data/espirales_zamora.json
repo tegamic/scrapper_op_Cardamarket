@@ -726,64 +726,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Blaziken VMAX #86",
-        "precio": "$258.95",
-        "precio_psa_10": "$431.72",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_1.png"
+        "nombre": "#1 Victini #171",
+        "precio": "$507.31",
+        "precio_psa_10": "$1,271.70",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_1.png"
       },
       {
-        "nombre": "#2 Galarian Moltres V #78",
-        "precio": "$197.37",
-        "precio_psa_10": "$354.00",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_2.png"
+        "nombre": "#2 Zekrom ex #172",
+        "precio": "$449.90",
+        "precio_psa_10": "$1,512.50",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_2.png"
       },
       {
-        "nombre": "#3 Snorlax #93",
-        "precio": "$85.53",
-        "precio_psa_10": "$126.09",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_3.png"
+        "nombre": "#3 Zekrom ex #166",
+        "precio": "$229.75",
+        "precio_psa_10": "$544.63",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_3.png"
       },
       {
-        "nombre": "#4 Galarian Slowking V #80",
-        "precio": "$79.72",
-        "precio_psa_10": "$157.68",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_4.png"
+        "nombre": "#4 Seismitoad #105",
+        "precio": "$167.11",
+        "precio_psa_10": "$1,436.57",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_4.png"
       },
       {
-        "nombre": "#5 Galarian Articuno V #74",
-        "precio": "$51.85",
-        "precio_psa_10": "$97.38",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_5.png"
+        "nombre": "#5 Kyurem ex #165",
+        "precio": "$65.75",
+        "precio_psa_10": "$142.25",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_5.png"
       },
       {
-        "nombre": "#6 Galarian Zapdos V #76",
-        "precio": "$40.45",
-        "precio_psa_10": "$94.35",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_6.png"
+        "nombre": "#6 N's Plan #170",
+        "precio": "$56.28",
+        "precio_psa_10": "$107.59",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_6.png"
       },
       {
-        "nombre": "#7 Klara #82",
-        "precio": "$36.00",
-        "precio_psa_10": "$130.51",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_7.png"
+        "nombre": "#7 Haxorus #147",
+        "precio": "$50.00",
+        "precio_psa_10": "$226.16",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_7.png"
       },
       {
-        "nombre": "#8 Blaziken VMAX #85",
-        "precio": "$23.09",
-        "precio_psa_10": "$53.57",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_8.png"
-      },
-      {
-        "nombre": "#9 Karen's Conviction #81",
-        "precio": "$22.00",
-        "precio_psa_10": "$56.31",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_9.png"
-      },
-      {
-        "nombre": "#10 Fighting Energy #96",
-        "precio": "$17.52",
+        "nombre": "#8 Air Balloon [Great Ball League] #79",
+        "precio": "$49.09",
         "precio_psa_10": "",
-        "imagen": "images/cartas/pokemon-japanese-matchless-fighter/pokemon-japanese-matchless-fighter_10.png"
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_8.png"
+      },
+      {
+        "nombre": "#9 Genesect ex #169",
+        "precio": "$41.75",
+        "precio_psa_10": "$84.85",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_9.png"
+      },
+      {
+        "nombre": "#10 Serperior ex #164",
+        "precio": "$41.00",
+        "precio_psa_10": "$97.48",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_10.png"
       }
     ]
   },
@@ -791,64 +791,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Charizard V #103",
-        "precio": "$145.43",
-        "precio_psa_10": "$341.83",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_1.png"
+        "nombre": "#1 Victini #172",
+        "precio": "$422.50",
+        "precio_psa_10": "$1,175.00",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_1.png"
       },
       {
-        "nombre": "#2 Charizard VSTAR #118",
-        "precio": "$52.00",
-        "precio_psa_10": "$153.51",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_2.png"
+        "nombre": "#2 Reshiram Ex [Great Ball League] #20",
+        "precio": "$403.68",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_2.png"
       },
       {
-        "nombre": "#3 Arceus V #112",
-        "precio": "$50.03",
-        "precio_psa_10": "$116.64",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_3.png"
+        "nombre": "#3 Reshiram ex #173",
+        "precio": "$374.60",
+        "precio_psa_10": "$1,194.42",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_3.png"
       },
       {
-        "nombre": "#4 Charizard V #102",
-        "precio": "$26.80",
-        "precio_psa_10": "$72.90",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_4.png"
+        "nombre": "#4 Reshiram ex #166",
+        "precio": "$168.32",
+        "precio_psa_10": "$500.00",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_4.png"
       },
       {
-        "nombre": "#5 Ultra Ball #126",
-        "precio": "$26.50",
-        "precio_psa_10": "$44.00",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_5.png"
+        "nombre": "#5 Unova Heavy Hitters Premium Collection",
+        "precio": "$125.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_5.png"
       },
       {
-        "nombre": "#6 Cynthia's Ambition #114",
-        "precio": "$19.99",
-        "precio_psa_10": "$57.00",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_6.png"
+        "nombre": "#6 Hydreigon ex #169",
+        "precio": "$66.00",
+        "precio_psa_10": "$187.57",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_6.png"
       },
       {
-        "nombre": "#7 Arceus VSTAR #125",
-        "precio": "$15.63",
-        "precio_psa_10": "$46.91",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_7.png"
+        "nombre": "#7 Keldeo ex #167",
+        "precio": "$49.99",
+        "precio_psa_10": "$167.36",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_7.png"
       },
       {
-        "nombre": "#8 Lumineon V #105",
-        "precio": "$15.49",
-        "precio_psa_10": "$40.02",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_8.png"
+        "nombre": "#8 Hilda #171",
+        "precio": "$49.34",
+        "precio_psa_10": "$123.58",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_8.png"
       },
       {
-        "nombre": "#9 Arceus VSTAR #120",
-        "precio": "$13.43",
-        "precio_psa_10": "$43.16",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_9.png"
+        "nombre": "#9 Zoroark #143",
+        "precio": "$48.00",
+        "precio_psa_10": "$229.99",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_9.png"
       },
       {
-        "nombre": "#10 Cynthia's Ambition #122",
-        "precio": "$11.50",
-        "precio_psa_10": "$39.03",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_10.png"
+        "nombre": "#10 Oshawott #105",
+        "precio": "$46.48",
+        "precio_psa_10": "$495.00",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_10.png"
       }
     ]
   },
