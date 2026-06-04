@@ -140,13 +140,20 @@ URL = "https://www.pricecharting.com/console/pokemon-japanese-ruler-of-the-black
 #URL = "https://www.pricecharting.com/console/pokemon-white-flare?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 ##sTAR BIRTH
 #URL = "https://www.pricecharting.com/console/pokemon-japanese-star-birth?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
-URL = "https://www.pricecharting.com/console/one-piece-japanese-extra-booster-anime-25th-collection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+##pokemon-ascended-heroes
+URL = "https://www.pricecharting.com/console/pokemon-ascended-heroes?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+URL = 'https://www.pricecharting.com/console/one-piece-japanese-extra-booster-anime-25th-collection?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection='
+URL = "https://www.pricecharting.com/console/pokemon-japanese-abyss-eye?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-raging-roar?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-blazing-aura?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+#URL = "https://www.pricecharting.com/console/dragon-ball-fusion-world-awakened-pulse?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
+URL = "https://www.pricecharting.com/console/dragon-ball-super-rivals-clash?sort=highest-price&model-number=&model-number=&exclude-hardware=true&exclude-variants=false&show-images=true&in-collection="
 
 def obtener_codigo_coleccion_desde_url(url: str) -> str:
     ruta = urlparse(url).path.rstrip("/")
     return ruta.split("/")[-1]
 
-SELECCION = "A62"
+SELECCION = "A13"
 COLECCION = ""
 CODIGO_COLECCION = obtener_codigo_coleccion_desde_url(URL)
 
